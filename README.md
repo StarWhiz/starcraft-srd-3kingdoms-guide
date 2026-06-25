@@ -192,9 +192,9 @@ Good luck!
 # References
 ## Team Unit Bonuses
 Send these units into the boss arena either before or during the boss fight to get a bonus. It's preferable to send then before as a team so you can swap out to higher tier units faster.
-RD 25 - One of each T3 Unit except for T3 Defiler
-RD 40 - One of each T4 Unit
-RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
+- RD 25 - One of each T3 Unit except for T3 Defiler
+- RD 40 - One of each T4 Unit
+- RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 
 ## Individual Units Translated
 - |6성| 장비 (Zhang Fei) = T6 SCV
