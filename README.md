@@ -247,7 +247,7 @@ Send these units into the boss arena either before or during the boss fight to g
 - 1x T2 SCV **위연** + 1x T2 Vulture **마초** + 2x T1 Dark Templar **검병**
 
 ### T3
-**Tip:** Guardian and Wraith are Dual Purpose
+**Tip:** The T3 Guardian is Dual Purpose
 - 1 of each T3 Unit
 - 1x T3 Guardian **허저** + 1x T2 Vulture **마초** + 2x T1 Zergling **기병**
 	- **Tip:** Keep **2x T1 Zerglings**
