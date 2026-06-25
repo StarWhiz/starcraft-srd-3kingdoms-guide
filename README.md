@@ -285,13 +285,9 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 
 ![](/media/z3-round90boss.png)
 
-
+**Screenshot**: In the photo above sarah kerrigan ghost got locked onto by the boss for about 1 second. She blinks out to the right-side after that timing window to survive.
 
 https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
-
-
-
-**Screenshot**: In the photo above sarah kerrigan ghost got locked onto by the boss for about 1 second. She blinks out to the right-side after that timing window to survive.
 
 - The Bosses other ability is to hook you in place. Nothing you can do here just be high enough health to survive. Don't tank when you are low health
 
