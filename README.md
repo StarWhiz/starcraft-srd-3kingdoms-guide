@@ -252,9 +252,9 @@ Send these units into the boss arena either before or during the boss fight to g
 - 1x T3 Guardian **허저** + 1x T2 Vulture **마초** + 2x T1 Zergling **기병**
 	- **Tip:** Keep **2x T1 Zerglings**
 - 1x T3 Guardian **허저** + 1x T3 Defiler **순욱** + 1x T2 Hydralisk **가후** + 1x T2 Scourge **견희**
-	- **Tip:** Keep **2x T2 Hydras** and **2x T2 Scourge**
+	- **Tip:** Keep **1x T2 Hydralisk** and **1x T2 Scourge**
 - 1x T3 Wraith **서서**+ 1x T3 Dropship **방통** + 1x T3 Defiler **순욱** + 1x T2 Hydralisk **가후**
-	- **Tip:** Keep **2x T1 Hydralisks**
+	- **Tip:** Keep **1x T1 Hydralisk**
 - 5x T3 Probe **손상향**
 
 ### T4
