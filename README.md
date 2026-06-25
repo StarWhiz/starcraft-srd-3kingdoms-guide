@@ -4,7 +4,6 @@ This is a guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜�
 
 I'm `StarFroz` on the US West Server.
 
-
 Date Authored: 20 June 2026
 
 The short URL for this guide is: https://urls.starfroz.com/3king
@@ -14,6 +13,7 @@ Gameplay Demo on YouTube: https://www.youtube.com/watch?v=cFrvOKUY7TU
 There are two parts to this guide:
 - Basic English Gameplay Guide
 - Account Linking Guide (Scroll Down Midway)
+
 # English Gameplay Guide
 Disabling the music in game. Once the game has fully loaded and you got your 5 random tier 1 units. You can disable the music with the `INSERT` button on your keyboard..
 
@@ -34,9 +34,10 @@ Combinations with auto-sort can be done automatically with the psi emitter.
 This can be done for any tier unit. But is necessary for tier 4 and higher combinations because there is no auto combine for higher tiers.
 
 ![](2-manualcombine.png)
-**Manual Combination Button When Selecting Unit** 
-You can hover over this manual combination button to see the count of how much of the same you need to combine.
+**Manual Combination Button When Selecting Unit** You can hover over this manual combination button to see the count of how much of the same you need to combine.
+
 ![](4-manualcombine-checkprogress.png)
+
 #### Advanced Combinations
 This is explained in the picture. In the mini map area on the bottom left you can see advanced units on the left and your basic tier 1-6 units on the right side.
 
@@ -102,6 +103,7 @@ The official guide doesn't have any screenshots so you can follow my guide below
 ## Online Web Account Creation
 - Create an account on https://srdrecords.kr/
 - Complete the email verification
+
 ## Getting a Code in Game
 In order to get your account linked you must make it to at least round 55 inside of the game
 - Note: You don't have to win round 55 to get the code just make it to round 55, lose, and still get a code.
@@ -239,11 +241,13 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 ### T1
 - 2 of each T1 Unit
 - 3x T1 Zergling **기병** + 3x T1 Marine **궁병**+ 3x T1 Drone **창병**
+
 ### T2
 **Tip:** Keep **2x T1 Zerglings 기병** and **2x T1 Dark Templars**
 - 1 of each T2 Unit
 - 1x T2 Zealot **주태** + 1x T2 Scourge **견희** + 2x T1 Zergling **기병**
 - 1x T2 SCV **위연** + 1x T2 Vulture **마초** + 2x T1 Dark Templar **검병**
+
 ### T3
 **Tip:** Guardian and Wraith are Dual Purpose
 - 1 of each T3 Unit
@@ -254,6 +258,7 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 - 1x T3 Wraith **서서**+ 1x T3 Dropship **방통** + 1x T3 Defiler **순욱** + 1x T2 Hydralisk **가후**
 	- **Tip:** Keep **2x T1 Hydralisks**
 - 5x T3 Probe **손상향**
+
 ### T4
 **Tip:** Probe is Multi Purpose
 - 1 of each T4 Unit
@@ -261,23 +266,27 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 	- **Tip:** This is a Protoss Combo
 - 1x T4 Ghost **황충**, 1x T4 Firebat **관평**, 1x T3 Dropship **방통** + 1x T2 SCV **위연**
 	- **Tip:** This is Dropship + T4 Terran Infantry + SCV
+
 ### T5
 - 1 of each T5 Unit
-## RD 80/90 Zergling Boss Pattern
-You need a Kerrigan healer to win this one.
 
-This boss is the Zergling. Nothing too dangerous here just take turns tanking damage as team and get healed on the healer. The dangerous part is when he uses ability to send hallucinations.
+## RD 80/90 Zergling Boss Pattern
+- You need a Kerrigan healer to win this one.
+
+- This boss is the Zergling. Nothing too dangerous here just take turns tanking damage as team and get healed on the healer. The dangerous part is when he uses ability to send hallucinations.
 - In this phase, the original is invulnerable to damage. And locks onto a target. It will prioritize healers like Zerg Kerrigan.
 	- When he does the hallucination, the healer's job is to blink far away and run away from the boss. If the healer gets too close to the boss he will stun the healer  in place until the hallucinations all die
 	- The teams job is to clear the hallucinations while the healer tries to survive.
 ![](z2-round80boss.png)
 ## RD 90/90 DT Boss Pattern
-You definitely want a Zerg Kerrigan Healer or Mythic Medic Healer for this one
-- Healers job is to survive and heal everyone
+- You definitely want a Zerg Kerrigan Healer or Mythic Medic Healer for this one
+- Healer's job is to survive and heal everyone
 - The Boss has a special damaging attack that locks onto you in a straight line and slows you down within a large AoE Circle.
 	- Save your blink for about 1 second and immediately run away doing this time, preferably away from your teammates.
 	- After about 1 second the AoE circle will explode. So blink out of the circle with good timing to successfully dodge.
 
 ![](z3-round90boss.png)
+
 **Screenshot**: In the photo above sarah kerrigan ghost got locked onto by the boss for about 1 second. She blinks out to the right-side after that timing window to survive.
+
 - The Bosses other ability is to hook you in place. Nothing you can do here just be high enough health to survive. Don't tank when you are low health
