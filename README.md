@@ -232,7 +232,7 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 - |1성| 기병 (Cavalry / Gibyeong) = T1 Zergling
 - |1성| 방패병 (Shield Bearer / Bangpaebyeong) = T1 Broodling
 
-|특수| 초선 (Diaochan / Choseon) = Medic (Grants +1 Mineral Per Round)
+- |특수| 초선 (Diaochan / Choseon) = Medic (Grants +1 Mineral Per Round)
 
 ![](/media/z1-masterchart.jpg)
 ## Individual Missions
