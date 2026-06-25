@@ -1,4 +1,4 @@
-![](0-title.png)
+![](/media/0-title.png)
 
 This is a guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜디)
 
@@ -28,20 +28,20 @@ It takes 3x of the same Tier 4 units to make a random Tier 5 unit.
 It takes 2x of the same Tier 5 units to make a random Tier 6 unit.
 #### Automatic Combinations for Tier 3 or less
 Combinations with auto-sort can be done automatically with the psi emitter.
-![](1-autocombine.png)
+![](/media/1-autocombine.png)
 **Psi Emitter = Auto Combine Controls, Mineral Switcher**
 #### Manual Combinations
 This can be done for any tier unit. But is necessary for tier 4 and higher combinations because there is no auto combine for higher tiers.
 
-![](2-manualcombine.png)
+![](/media/2-manualcombine.png)
 **Manual Combination Button When Selecting Unit** You can hover over this manual combination button to see the count of how much of the same you need to combine.
 
-![](4-manualcombine-checkprogress.png)
+![](/media/4-manualcombine-checkprogress.png)
 
 #### Advanced Combinations
 This is explained in the picture. In the mini map area on the bottom left you can see advanced units on the left and your basic tier 1-6 units on the right side.
 
-![](3-advancedcombine.png)
+![](/media/3-advancedcombine.png)
 **How to view combinations**
 In the example above, the Medic has a special ability that gives you 1 mineral per round. The ability is shown on the bottom right grid upon selection.
 
@@ -51,16 +51,16 @@ Were you wondering what the mineral switch button was for on the psi emitter? We
 You can also recycle your tier 1 units into minerals as an alternative source of minerals.
 
 How upgrading is done is shown below
-![](5-upgrades.png)
+![](/media/5-upgrades.png)
 
 #### Recycling Tier 1 Units for Minerals
-![](6-recyclet1s.png)
+![](/media/6-recyclet1s.png)
 
 ### Individual Boss Waves
 This is probably the most important part of the game. Clearing these are essential to surviving the individual rounds.
 
 These boss waves appear about every 5 rounds and respawn after a certain amount of time. Killing them earns you either more units or earn you scarabs (selection tokens) that you can spend to get specific units.
-![](7-kitingminibosses.png)
+![](/media/7-kitingminibosses.png)
 
 ### Spending Scarabs (Selection Tokens)
 You'll earn scarabs as you kill individual bosses later in the game.
@@ -68,11 +68,11 @@ You'll earn scarabs as you kill individual bosses later in the game.
 Click on the scarabs to bring up the scarab shop. You can cycle thru pages to spend different tier scarabs on different tier units.
 
 You typically use this to help you find missing units to finish off unit combinations.
-![](8-tokenselection.png)
+![](/media/8-tokenselection.png)
 
 ### Mini Quests
 If you use your phone as a camera google translate. You can hover over the flags above your arena to see what is required to earn the reward from the flags.
-![](9-miniquests.png)
+![](/media/9-miniquests.png)
 **Checking out the mini quests by hovering over them**
 ### Team Boss Fights
 These boss fights happen on various rounds Like round 10, 25, 40, 55, 70.
@@ -80,7 +80,7 @@ These boss fights happen on various rounds Like round 10, 25, 40, 55, 70.
 If you lose these rounds you will lose the game. Coordinate with your team members to take down the Team Boss.
 
 Send your strongest tier unit to the arena by selecting it and pressing D.
-![](10-teamboss.jpg)
+![](/media/10-teamboss.jpg)
 
 ### Tanking for your DPS by Swapping In Place
 If someone is hard carrying you with higher tier heroes. You would be most useful tanking the boss damage for your DPS.
@@ -110,29 +110,29 @@ In order to get your account linked you must make it to at least round 55 inside
 
 At the end of the game you will see a code take note of that
 
-![](a1-codefromgame.png)
+![](/media/a1-codefromgame.png)
 
 ## Entering in the code on web account
 Do so by logging into your account at https://srdrecords.kr/ and navigate like so
-![](a2-enteringcodefromgame.png)
+![](/media/a2-enteringcodefromgame.png)
 
 You want to do this every time you made it to at least round 55 to earn progress.
 ## Account Linking srdrecords -> in game name
 Link your web account to your in game name (not your battle net name) while you are at it. Make sure you spell it correctly too..
 - It's near the bottom left side bar which say something like in-game name verification
 
-![](a3-linkIGN2account.png)
+![](/media/a3-linkIGN2account.png)
 
 ## Logging in your account inside of Game
 Once you've made progress and the new map version has been released, you will be able to login inside of game with your new 5 digit code in the next version of the map. They usually release a new version every week. Don't worry you can save your progress  even when you don't login inside the game as long as you save the codes at the end of the round 55+ games.
 
-![](a4-personal5digitcode.png)
+![](/media/a4-personal5digitcode.png)
 This 5 digit code on the bottom left sidebar only appears after the next map release has been released.
 
-![](a5-logInGame.png)
+![](/media/a5-logInGame.png)
 When your game loads you will have to enter in your 5 digit code in the machine shop.
 
-![](a6-logInGamedone.png)
+![](/media/a6-logInGamedone.png)
 If you don't enter in your code here the game will not start... So don't hold everyone up.
 
 Press enter when done with code. Then game will start!
@@ -144,13 +144,13 @@ You can collect 200 bonus points per day you play on the website after getting t
 
 Collection is done like so
 
-![](a7-dailies.png)
+![](/media/a7-dailies.png)
 ## Spending Points
 Buy stones at the shop. It's a gatcha system. It costs 100 points to do a single roll. 1000 points to do 11 rolls.
-![](a8-gatcha.png)
+![](/media/a8-gatcha.png)
 
 Then you can spend your stones in the collections shop to unlock Mythic and Immortal heroes.
-![](a9-pointspending.png)
+![](/media/a9-pointspending.png)
 In order to beat normal and hard difficulty you will need these unlocks.
 # New Map Versions
 The new map versions are typically on https://cafe.naver.com/f-e/cafes/17046257/articles/141229
@@ -182,7 +182,7 @@ Then upgrade one of each Mythic's bonuses at least once.
 The medic bonus is the one you should grab first.
 Then focus on a bonus due to diminishing returns.
 
-![](a10-mythicbonuses.png)
+![](/media/a10-mythicbonuses.png)
 This screenshot explains the **mythic hero bonuses** you can buy for an additional 50 stone... That's why it's better to unlock the mythic first, then all of their corresponding bonuses at least once.
 # Conclusion
 I hope this helps. At the time of writing I've only played this map 8 times. There is a lot that I don't know. I also don't know any Korean so most of this was either google translated or I used my own brain to figure it out.
@@ -236,7 +236,7 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 
 |특수| 초선 (Diaochan / Choseon) = Medic (Grants +1 Mineral Per Round)
 
-![](z1-masterchart.jpg)
+![](/media/z1-masterchart.jpg)
 ## Individual Missions
 ### T1
 - 2 of each T1 Unit
@@ -277,7 +277,7 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 - In this phase, the original is invulnerable to damage. And locks onto a target. It will prioritize healers like Zerg Kerrigan.
 	- When he does the hallucination, the healer's job is to blink far away and run away from the boss. If the healer gets too close to the boss he will stun the healer  in place until the hallucinations all die
 	- The teams job is to clear the hallucinations while the healer tries to survive.
-![](z2-round80boss.png)
+![](/media/z2-round80boss.png)
 ## RD 90/90 DT Boss Pattern
 - You definitely want a Zerg Kerrigan Healer or Mythic Medic Healer for this one
 - Healer's job is to survive and heal everyone
@@ -285,7 +285,7 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 	- Save your blink for about 1 second and immediately run away doing this time, preferably away from your teammates.
 	- After about 1 second the AoE circle will explode. So blink out of the circle with good timing to successfully dodge.
 
-![](z3-round90boss.png)
+![](/media/z3-round90boss.png)
 
 **Screenshot**: In the photo above sarah kerrigan ghost got locked onto by the boss for about 1 second. She blinks out to the right-side after that timing window to survive.
 
