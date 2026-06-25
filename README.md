@@ -4,8 +4,6 @@ This is a guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜�
 
 I'm `StarFroz` on the US West Server.
 
-Date Authored: 20 June 2026
-
 The short URL for this guide is: https://urls.starfroz.com/3king
 
 Gameplay Demo on YouTube: https://www.youtube.com/watch?v=cFrvOKUY7TU
@@ -290,3 +288,11 @@ RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 **Screenshot**: In the photo above sarah kerrigan ghost got locked onto by the boss for about 1 second. She blinks out to the right-side after that timing window to survive.
 
 - The Bosses other ability is to hook you in place. Nothing you can do here just be high enough health to survive. Don't tank when you are low health
+
+# End
+
+I'm `StarFroz` on the US West Server and KR Server.
+
+Date Authored: 06/20/2026
+
+Date Last Modified: 06/25/2026
