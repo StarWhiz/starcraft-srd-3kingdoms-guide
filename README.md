@@ -197,40 +197,40 @@ RD 40 - One of each T4 Unit
 RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 
 ## Individual Units Translated
-|6성| 장비 (Zhang Fei) = T6 SCV
-|6성| 손견 (Son Gyeon)= T6 Probe
-|6성| 하후연 (Xiahou Yuan / Hahu Yeon) = T6 Drone
+- |6성| 장비 (Zhang Fei) = T6 SCV
+- |6성| 손견 (Son Gyeon)= T6 Probe
+- |6성| 하후연 (Xiahou Yuan / Hahu Yeon) = T6 Drone
 
-|5성| 조운 (Zhao Yun / Jo Un) = T5 Marine
-|5성| 손책 (Sun Ce / Sun Cheek) = T5 Corsair
-|5성| 장료 (Zang Liao / Jang Ryo) = T5 Zergling
-|5성| 동탁 (Dong Zhuo / Dong Tak) = T5 Ursadon
+- |5성| 조운 (Zhao Yun / Jo Un) = T5 Marine
+- |5성| 손책 (Sun Ce / Sun Cheek) = T5 Corsair
+- |5성| 장료 (Zang Liao / Jang Ryo) = T5 Zergling
+- |5성| 동탁 (Dong Zhuo / Dong Tak) = T5 Ursadon
 
-|4성| 황충 (Huang Zhong / Hwang Chung) = T4 Ghost
-|4성| 관평 (Guan Ping / Gwan Pyeong) = T4 Firebat
-|4성| 감녕 (Gan Ning / Gam Nyeong) = T4 Dark Templar
-|4성| 육손 (Lu Xun / Yuk Son) = T4 Dragoon
-|4성| 곽가 (Guo Jia / Gwak Ga) = T4 Queen
+- |4성| 황충 (Huang Zhong / Hwang Chung) = T4 Ghost
+- |4성| 관평 (Guan Ping / Gwan Pyeong) = T4 Firebat
+- |4성| 감녕 (Gan Ning / Gam Nyeong) = T4 Dark Templar
+- |4성| 육손 (Lu Xun / Yuk Son) = T4 Dragoon
+- |4성| 곽가 (Guo Jia / Gwak Ga) = T4 Queen
 
-|3성| 서서 (Xu Shu / Seo Seo)= T3 Wraith
-|3성| 방통 (Pang Tong / Bang Tong) = T3 Dropship
-|3성| 손상향 (Sun Shangxiang / Son Sang-hyang) = T3 Probe
-|3성| 능통 (Ling Tong / Neung Tong) = T3 Scout
-|3성| 허저 (Xu Chu / Heo Jeo) = T3 Guardian
-|3성| 순욱 (Xun Yu /Sun Uk) = T3 Defiler
+- |3성| 서서 (Xu Shu / Seo Seo)= T3 Wraith
+- |3성| 방통 (Pang Tong / Bang Tong) = T3 Dropship
+- |3성| 손상향 (Sun Shangxiang / Son Sang-hyang) = T3 Probe
+- |3성| 능통 (Ling Tong / Neung Tong) = T3 Scout
+- |3성| 허저 (Xu Chu / Heo Jeo) = T3 Guardian
+- |3성| 순욱 (Xun Yu /Sun Uk) = T3 Defiler
 
-|2성| 위연 (Wei Yan / Wi Yeon) = T2 SCV
-|2성| 마초 (Ma Chao / Ma Cho) = T2 Vulture
-|2성| 주태 (Zhou Tai / Ju Tae) = T2 Zealot
-|2성| 소교 (Xiao Qiao / So Gyo)= T2 Interceptor
-|2성| 가후 (Jia Xu / Ga Hu) = T2 Hydra
-|2성| 견희 (Zhen Ji / Gyeon Hui) = T2 Scourge
+- |2성| 위연 (Wei Yan / Wi Yeon) = T2 SCV
+- |2성| 마초 (Ma Chao / Ma Cho) = T2 Vulture
+- |2성| 주태 (Zhou Tai / Ju Tae) = T2 Zealot
+- |2성| 소교 (Xiao Qiao / So Gyo)= T2 Interceptor
+- |2성| 가후 (Jia Xu / Ga Hu) = T2 Hydra
+- |2성| 견희 (Zhen Ji / Gyeon Hui) = T2 Scourge
 
-|1성| 창병 (Spearman / Changbyeong) = T1 Drone
-|1성| 검병 (Swordsman / Geombyeong) = T1 Dark Templar
-|1성| 궁병 (Archer / Gungbyeong) = T1 Marine
-|1성| 기병 (Cavalry / Gibyeong) = T1 Zergling
-|1성| 방패병 (Shield Bearer / Bangpaebyeong) = T1 Broodling
+- |1성| 창병 (Spearman / Changbyeong) = T1 Drone
+- |1성| 검병 (Swordsman / Geombyeong) = T1 Dark Templar
+- |1성| 궁병 (Archer / Gungbyeong) = T1 Marine
+- |1성| 기병 (Cavalry / Gibyeong) = T1 Zergling
+- |1성| 방패병 (Shield Bearer / Bangpaebyeong) = T1 Broodling
 
 |특수| 초선 (Diaochan / Choseon) = Medic (Grants +1 Mineral Per Round)
 
