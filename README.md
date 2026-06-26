@@ -268,6 +268,9 @@ Send these units into the boss arena either before or during the boss fight to g
 ### T5
 - 1 of each T5 Unit
 
+## Random Tip
+If you're about to die late game, turn off your line Bosses you might survive. I died at round 89/90 one time because I didn't consider that option when I had the Mythic Medic which seems to do less damage than Kerrigan
+
 ## RD 80/90 Zergling Boss Pattern
 - You need a Kerrigan healer to win this one.
 
