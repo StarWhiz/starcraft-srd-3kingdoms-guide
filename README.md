@@ -293,7 +293,7 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 
 # End
 
-I'm `StarFroz` on the US West Server and KR Server.
+I'm `StarFroz` on the US West Server and KR Server. Pro tip use a cloud gaming service like Nvidia GeForce Now and choose a PC in Japan. That way you can play on Korean servers without their players complaining about lag. You personally will experience stream lag, but other players don't experience the lag at all.
 
 Date Authored: 06/20/2026
 
