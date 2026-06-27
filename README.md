@@ -309,8 +309,10 @@ That way you can play on Korean servers without their players complaining about 
 
 You personally will experience stream lag, but other players don't experience the lag at all.
 
-Stream lag runs at full and smooth game speed compared to real lag without the cloud gaming service.
+Stream lag runs at full and smooth game speed compared to real lag without the cloud gaming service. 
+
+Learn more about that here https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/geforcenow-for-KR-servers
 
 Date Authored: 06/20/2026
 
-Date Last Modified: 06/25/2026
+Date Last Modified: 06/27/2026

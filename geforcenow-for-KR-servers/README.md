@@ -20,6 +20,15 @@ Since the physical distance from Japan to Korea is short, the latency between Ja
 
 You are basically remote controlling a machine that is close to Korea and since starcraft is P2P it's basically connecting players to your Nvidia's gaming computer in Japan.
 
+## Pros
+- Smooth FPS gaming experience, full game speed
+- 5 Green Bars = you don't get kicked from lobbies
+
+## Cons
+- Can't host games (Port forwarding not available)
+- Stream delay (it's like playing on extra extra high latency)
+- Free plan limits you to 1 hour per sesion + ADs
+
 # How to Play on KR Without Lag from Anywhere
 Sign up for Nvidia Geforce Now with this url: https://www.nvidia.com/en-us/geforce-now/
 
@@ -66,3 +75,6 @@ Words to know for SRD players who don't speak korean.
 어려움 - Hard Difficulty
 ㅎㅇ - Hi
 
+This is also not the only method. I only wrote about it because it has free to try. You can use any other cloud gaming service with regions close to korea. This is the only one I write about because it's free to try.
+
+If you know about one that has a server in Korea + has port forwarding for hosting StarCraft games + is cheap please let me know.
