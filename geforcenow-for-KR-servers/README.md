@@ -52,18 +52,26 @@ https://github.com/user-attachments/assets/9f53d89d-aa9a-4969-a46b-865b429be2ec
 
 ![](n2-geforcenow.png)
 
-- You will get a you are currently offline prompt. Just click cancel and login
+You will get a you are currently offline prompt. Just click cancel and login
 
 ![](n3-geforcenow.jpg)
 
-- Then login with email and password ignore any you are offline prompts.
+Then login with email and password ignore any you are offline prompts.
 
 ![](n4-geforcenow.jpg)
 
-- You might get in a stuck logo loop. Don't worry it's not stuck just click on it and wait.
+You might get in a stuck logo loop. Don't worry it's not stuck just click on it and wait.
 
 
-After that step you are done, just launch starcraft from the battle.net launcher and play starcraft normally. You can choose KR server and try it out! Might help if you pick the same in game name if you play the Korean UMS map SRD (3 kingdom random defense).
+After that step you are done, just launch starcraft from the battle.net launcher and play starcraft normally. 
+
+When asked about bonjour click no.
+
+![](n5-geforcenow.jpg)
+
+You can choose KR server and try it out! Might help if you pick the same in game name if you play the Korean UMS map SRD (3 kingdom random defense).
+
+
 
 # Conclusion
 Keep in mind on free, the max play time is 1 hour. So log out and log back in once you're done with a map.
