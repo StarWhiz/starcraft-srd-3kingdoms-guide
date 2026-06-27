@@ -34,9 +34,8 @@ Scroll down and click Join Free to register.
 - Change the Server location to `Japan`
 
 Video Example of Server Location Switch below
+
 https://github.com/user-attachments/assets/9f53d89d-aa9a-4969-a46b-865b429be2ec
-
-
 
 - Then under `Settings -> Connections` connect your Battle.net account
 - Go back to Games by clicking top left and clicking on `Games`
