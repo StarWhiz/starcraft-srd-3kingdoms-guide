@@ -2,7 +2,7 @@
 
 This is a guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜디)
 
-한국어 가이드를 보시려면 여기를 클릭하세요 (KR Guide): https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/blob/main/README-KR.md
+한국어 가이드를 보시려면 여기를 클릭하세요 (KR Guide): https://urls.starfroz.com/srd-kr
 
 I'm `StarFroz` on the US West Server.
 
