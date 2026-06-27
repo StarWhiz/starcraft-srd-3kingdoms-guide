@@ -19,11 +19,12 @@ It helps to have your phone with google lens translate available to translate ex
 
 If you're short on time just look at the screenshots instead of reading.
 ### Combination Basics
-It takes 4x of the same Tier 1 units to make a random Tier 2 unit.
-It takes 4x of the same Tier 2 units to make a random Tier 3 unit.
-It takes 3x of the same Tier 3 units to make a random Tier 4 unit.
-It takes 3x of the same Tier 4 units to make a random Tier 5 unit.
-It takes 2x of the same Tier 5 units to make a random Tier 6 unit.
+- It takes 4x of the same Tier 1 units to make a random Tier 2 unit.
+- It takes 4x of the same Tier 2 units to make a random Tier 3 unit.
+- It takes 3x of the same Tier 3 units to make a random Tier 4 unit.
+- It takes 3x of the same Tier 4 units to make a random Tier 5 unit.
+- It takes 2x of the same Tier 5 units to make a random Tier 6 unit.
+- 
 #### Automatic Combinations for Tier 3 or less
 Combinations with auto-sort can be done automatically with the psi emitter.
 ![](/media/1-autocombine.png)
