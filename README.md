@@ -301,7 +301,15 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 - The Bosses other ability is to hook you in place. Nothing you can do here just be high enough health to survive. Don't tank when you are low health
 
 # End
-I'm `StarFroz` on the US West Server and KR Server. Pro tip use a cloud gaming service like Nvidia GeForce Now and choose a PC in Japan. That way you can play on Korean servers without their players complaining about lag. You personally will experience stream lag, but other players don't experience the lag at all.
+I'm `StarFroz` on the US West Server and KR Server. 
+
+Pro tip when playing on KR from USA or any distant country, use a cloud gaming service like Nvidia GeForce Now or Shadow Play and choose a PC near the region like Japan. 
+
+That way you can play on Korean servers without their players complaining about lag. 
+
+You personally will experience stream lag, but other players don't experience the lag at all.
+
+Stream lag runs at full and smooth game speed compared to real lag without the cloud gaming service.
 
 Date Authored: 06/20/2026
 
