@@ -24,7 +24,7 @@ If you're short on time just look at the screenshots instead of reading.
 - It takes 3x of the same Tier 3 units to make a random Tier 4 unit.
 - It takes 3x of the same Tier 4 units to make a random Tier 5 unit.
 - It takes 2x of the same Tier 5 units to make a random Tier 6 unit.
-- 
+
 #### Automatic Combinations for Tier 3 or less
 Combinations with auto-sort can be done automatically with the psi emitter.
 ![](/media/1-autocombine.png)
@@ -167,13 +167,16 @@ So you want to min max your stones?
 
 You should go for all of the Mythics at least once first!
 - Medic is a necessity. It's a super healer that blinks to heal teammates.
+	- She is built from T7 Kerrigan + 2x T5 Ursadons + Mineral Medic + 2x T2 Scourge + 2 T2 Intercepters
+    - Click on mineral medic to upgrade to Mythic Medic (ideal when Kerrigan dies during team boss fight)
+    - Mythic Medic has no base blink. She can only blink to team mates that have a full heart icon.
+    - Mythic Medic shares team damage.
 - Mythics that are most versatile because they can build from probe, scv, or drone
-	- Sarah Kerrigan - Builds from probe
-	- Blue Archon - Builds from Drone?
-	- Marine
-- Built from Drone
-	- Ling
-	- Blue Archon
+	- Sarah Kerrigan - Builds from T6 Probe + T7 Tassadar + Other Crap Sorry I'll find out later
+	- Blue Archon - Builds from T6 Drone + some T7?
+	- Marine - Builds from T6 SCV + some T7?
+- Harder to build
+	- Ling - T6 Drone?
 - Hardest to build but highest DPS
 	- Defiler
 
