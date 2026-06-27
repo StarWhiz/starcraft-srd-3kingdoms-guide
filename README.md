@@ -2,6 +2,8 @@
 
 This is a guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜디)
 
+한국어 가이드를 보시려면 여기를 클릭하세요 (KR Guide): 
+
 I'm `StarFroz` on the US West Server.
 
 The short URL for this guide is: https://urls.starfroz.com/3king
