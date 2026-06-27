@@ -1,6 +1,6 @@
 ![](/media/0-title.png)
 
-Link to [English Guide](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide)
+Link to English Guide: https://urls.starfroz.com/srd
 
 > [!NOTE]  
 > 이 게임 가이드는 AI를 통해 원문 영어 가이드에서 번역되었습니다.
@@ -9,7 +9,7 @@ Link to [English Guide](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guid
 
 저는 US West 서버의 `StarFroz`입니다.
 
-이 가이드의 단축 URL: https://urls.starfroz.com/srd
+이 가이드의 단축 URL: https://urls.starfroz.com/srd-kr
 
 유튜브 게임플레이 데모: https://www.youtube.com/watch?v=cFrvOKUY7TU
 
