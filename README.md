@@ -237,18 +237,18 @@ Send these units into the boss arena either before or during the boss fight to g
 ![](/media/z1-masterchart.jpg)
 ## Individual Missions
 ### T1
-- 2 of each T1 Unit
-- 3x T1 Zergling **기병** + 3x T1 Marine **궁병**+ 3x T1 Drone **창병**
+- 2x of each T1 Unit
+- 3x T1 Dark Templar **기병** + 3x T1 Marine **궁병**+ 3x T1 Drone **창병**
+- **Tip:** Keep **2x T1 Zerglings 기병** and **2x T1 Dark Templars** after getting the flags above
 
 ### T2
-**Tip:** Keep **2x T1 Zerglings 기병** and **2x T1 Dark Templars**
-- 1 of each T2 Unit
+- 1x of each T2 Unit
 - 1x T2 Zealot **주태** + 1x T2 Scourge **견희** + 2x T1 Zergling **기병**
 - 1x T2 SCV **위연** + 1x T2 Vulture **마초** + 2x T1 Dark Templar **검병**
 
 ### T3
 **Tip:** The T3 Guardian is Dual Purpose
-- 1 of each T3 Unit
+- 1x of each T3 Unit
 - 1x T3 Guardian **허저** + 1x T2 Vulture **마초** + 2x T1 Zergling **기병**
 	- **Tip:** Keep **2x T1 Zerglings**
 - 1x T3 Guardian **허저** + 1x T3 Defiler **순욱** + 1x T2 Hydralisk **가후** + 1x T2 Scourge **견희**
@@ -259,29 +259,31 @@ Send these units into the boss arena either before or during the boss fight to g
 
 ### T4
 **Tip:** Probe is Multi Purpose
-- 1 of each T4 Unit
+- 1x of each T4 Unit
 - 1x T4 Dragoon **육손** + 1x T3 Probe **손상향** + 1x T3 Scout **능통** + 1x T2 Zealot **주태**+ 1x T2 Intercepter **소교**
 	- **Tip:** This is a Protoss Combo
 - 1x T4 Ghost **황충**, 1x T4 Firebat **관평**, 1x T3 Dropship **방통** + 1x T2 SCV **위연**
 	- **Tip:** This is Dropship + T4 Terran Infantry + SCV
 
 ### T5
-- 1 of each T5 Unit
+- 1x of each T5 Unit
 
 ## Random Tip
 If you're about to die late game, turn off your line Bosses you might survive. I died at round 89/90 one time because I didn't consider that option when I had the Mythic Medic which seems to do less damage than Kerrigan
 
 ## RD 80/90 Zergling Boss Pattern
-- You need a Kerrigan healer to win this one.
+- You need at least a Kerrigan healer to win this one.
 
 - This boss is the Zergling. Nothing too dangerous here just take turns tanking damage as team and get healed on the healer. The dangerous part is when he uses ability to send hallucinations.
 - In this phase, the original is invulnerable to damage. And locks onto a target. It will prioritize healers like Zerg Kerrigan.
-	- When he does the hallucination, the healer's job is to blink far away and run away from the boss. If the healer gets too close to the boss he will stun the healer  in place until the hallucinations all die
+	- When he does the hallucination, the healer's job is to blink far away and run away from the boss. If the healer gets too close to the boss he will stun the healer in place until the hallucinations all die. Save your heal for either your mythic teammates or yourself in case you're about to die. 
 	- The teams job is to clear the hallucinations while the healer tries to survive.
+ 	- The team should also aggro the hallucinations in the corner of the map to the center so they can be killed 
 ![](/media/z2-round80boss.png)
+
 ## RD 90/90 DT Boss Pattern
 - You definitely want a Zerg Kerrigan Healer or Mythic Medic Healer for this one
-- Healer's job is to survive and heal everyone
+- Healer's job is to survive and heal everyone while dodging the special attack to stay alive
 - The Boss has a special damaging attack that locks onto you in a straight line and slows you down within a large AoE Circle.
 	- Save your blink for about 1 second and immediately run away doing this time, preferably away from your teammates.
 	- After about 1 second the AoE circle will explode. So blink out of the circle with good timing to successfully dodge.
@@ -295,7 +297,6 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 - The Bosses other ability is to hook you in place. Nothing you can do here just be high enough health to survive. Don't tank when you are low health
 
 # End
-
 I'm `StarFroz` on the US West Server and KR Server. Pro tip use a cloud gaming service like Nvidia GeForce Now and choose a PC in Japan. That way you can play on Korean servers without their players complaining about lag. You personally will experience stream lag, but other players don't experience the lag at all.
 
 Date Authored: 06/20/2026
