@@ -412,6 +412,9 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 
 - 보스의 다른 능력은 당신을 제자리에 끌어당기는 것입니다. 여기서 할 수 있는 것은 없으니 생존할 수 있을 만큼 체력을 높게 유지하세요. 체력이 낮을 때는 탱킹하지 마세요.
 
+## RD 80/90 보스 게임플레이 데모
+- 제가 RD 80과 RD 90 보스에서 힐러를 플레이하는 방법을 담은 영상 링크입니다: https://youtu.be/vAeHywVq7A8
+
 # 끝
 저는 US West 서버와 KR 서버의 `StarFroz`입니다.
 
