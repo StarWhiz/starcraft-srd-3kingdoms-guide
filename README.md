@@ -8,8 +8,6 @@ I'm `StarFroz` on the US West Server.
 
 The short URL for sharing this guide in game is: https://urls.starfroz.com/srd
 
-Gameplay Demo on YouTube: https://www.youtube.com/watch?v=cFrvOKUY7TU
-
 There are two parts to this guide:
 - Basic English Gameplay Guide
 - Account Linking Guide (Scroll Down Midway)
@@ -301,6 +299,10 @@ If you're about to die late game, turn off your line Bosses you might survive. I
 https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 
 - The Bosses other ability is to hook you in place. Nothing you can do here just be high enough health to survive. Don't tank when you are low health
+
+## RD 80/90 Boss Gameplay Demo
+- This is a link to a video how I play healer on RD 80 and RD 90 Bosses: https://youtu.be/vAeHywVq7A8
+
 
 # End
 I'm `StarFroz` on the US West Server and KR Server. 
