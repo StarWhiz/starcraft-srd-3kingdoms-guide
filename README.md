@@ -285,6 +285,17 @@ If you're about to die late game, turn off your line Bosses you might survive. I
  	- The team should also aggro the hallucinations in the corner of the map to the center so they can be killed 
 ![](/media/z2-round80boss.png)
 
+## RD 55 Boss Cheesing Guide
+- The idea here is to separate the bosses.
+- The Marine is the one that always spawns broodlings. He stops spawning broodlings when there are alot of broodlings on the field.
+- The strat is to do your RD55 Team of 5 Bonus early by placing your units before the boss fight in the top left corner.
+	- All players teleport back to base after bonus is distributed.
+    - We do this so we can spend more time killing the boss rather than coordinating the team bonus during the fight.
+- Have one player lures SCV and Zergling bosses first to a corner preferably with the broodlings
+	- The one player teleports the lure unit back to base
+- The marine boss will automatically come back to the center of the map
+- All players teleport in, to kill the marine.  
+
 ## RD 90/90 DT Boss Pattern
 - You definitely want a Zerg Kerrigan Healer or Mythic Medic Healer for this one
 - Healer's job is to survive and heal everyone while dodging the special attack to stay alive
