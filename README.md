@@ -286,6 +286,8 @@ If you're about to die late game, turn off your line Bosses you might survive. I
 - The marine boss will automatically come back to the center of the map
 - All players teleport in, to kill the marine.  
 
+Credits to kentaco for teaching me this tech.
+
 ## RD 80/90 Zergling Boss Pattern
 - You need at least a Kerrigan healer to win this one.
 
@@ -295,7 +297,8 @@ If you're about to die late game, turn off your line Bosses you might survive. I
 	- The teams job is to clear the hallucinations while the healer tries to survive.
  	- Either the healer or the team should also aggro the hallucinations in the corner of the map to the center so they can be killed
     - As a healer this is possible by running around in a circle to pull aggro so your teammates can finish off the hallucinations.
-    	- You do want to stay far away from the original as possible when it locks on to you 
+    	- You do want to stay far away from the original as possible when it locks on to you
+
 ![](/media/z2-round80boss.png)
 
 ## RD 90/90 DT Boss Pattern
