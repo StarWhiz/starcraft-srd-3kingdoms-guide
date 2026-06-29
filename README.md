@@ -275,16 +275,6 @@ Send these units into the boss arena either before or during the boss fight to g
 ## Random Tip
 If you're about to die late game, turn off your line Bosses you might survive. I died at round 89/90 one time because I didn't consider that option when I had the Mythic Medic which seems to do less damage than Kerrigan
 
-## RD 80/90 Zergling Boss Pattern
-- You need at least a Kerrigan healer to win this one.
-
-- This boss is the Zergling. Nothing too dangerous here just take turns tanking damage as team and get healed on the healer. The dangerous part is when he uses ability to send hallucinations.
-- In this phase, the original is invulnerable to damage. And locks onto a target. It will prioritize healers like Zerg Kerrigan.
-	- When he does the hallucination, the healer's job is to blink far away and run away from the boss. If the healer gets too close to the boss he will stun the healer in place until the hallucinations all die. Save your heal for either your mythic teammates or yourself in case you're about to die. 
-	- The teams job is to clear the hallucinations while the healer tries to survive.
- 	- The team should also aggro the hallucinations in the corner of the map to the center so they can be killed 
-![](/media/z2-round80boss.png)
-
 ## RD 55 Boss Cheesing Guide
 - The idea here is to separate the bosses.
 - The Marine is the one that always spawns broodlings. He stops spawning broodlings when there are alot of broodlings on the field.
@@ -295,6 +285,18 @@ If you're about to die late game, turn off your line Bosses you might survive. I
 	- The one player teleports the lure unit back to base
 - The marine boss will automatically come back to the center of the map
 - All players teleport in, to kill the marine.  
+
+## RD 80/90 Zergling Boss Pattern
+- You need at least a Kerrigan healer to win this one.
+
+- This boss is the Zergling. Nothing too dangerous here just take turns tanking damage as team and get healed on the healer. The dangerous part is when he uses ability to send hallucinations.
+- In this phase, the original is invulnerable to damage. And locks onto a target. It will prioritize healers like Zerg Kerrigan.
+	- When he does the hallucination, the healer's job is to blink far away and run away from the boss. If the healer gets too close to the boss he will stun the healer in place until the hallucinations all die. Save your heal for either your mythic teammates or yourself in case you're about to die. 
+	- The teams job is to clear the hallucinations while the healer tries to survive.
+ 	- Either the healer or the team should also aggro the hallucinations in the corner of the map to the center so they can be killed
+    - As a healer this is possible by running around in a circle to pull aggro so your teammates can finish off the hallucinations.
+    	- You do want to stay far away from the original as possible when it locks on to you 
+![](/media/z2-round80boss.png)
 
 ## RD 90/90 DT Boss Pattern
 - You definitely want a Zerg Kerrigan Healer or Mythic Medic Healer for this one
