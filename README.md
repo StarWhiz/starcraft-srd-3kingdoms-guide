@@ -172,9 +172,9 @@ You should go for all of the Mythics at least once first!
     - Mythic Medic has no base blink. She can only blink to team mates that have a full heart icon.
     - Mythic Medic shares team damage.
 - Mythics that are most versatile because they can build from probe, scv, or drone
-	- Sarah Kerrigan - Builds from T6 Probe + T7 Tassadar + Other Crap Sorry I'll find out later
+	- Sarah Kerrigan - Builds from T6 Probe + T7 Tassadar + 2 T3 Probes + Other T2s + T1s
 	- Blue Archon - Builds from T6 Drone + some T7?
-	- Marine - Builds from T6 SCV + some T7?
+	- Marine - Builds T7 Dark Templar (From)
 - Harder to build
 	- Ling - T6 Drone?
 - Hardest to build but highest DPS
@@ -199,6 +199,9 @@ Send these units into the boss arena either before or during the boss fight to g
 - RD 25 - One of each T3 Unit except for T3 Defiler
 - RD 40 - One of each T4 Unit
 - RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
+
+## T7 Units and Mythics
+See this guide: 
 
 ## Individual Units Translated
 - |6성| 장비 (Zhang Fei) = T6 SCV
