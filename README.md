@@ -202,9 +202,6 @@ Send these units into the boss arena either before or during the boss fight to g
 - RD 40 - One of each T4 Unit
 - RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
 
-## T7 Units and Mythics
-See this guide: 
-
 ## Individual Units Translated
 - T7 Units + Mythics are on [this dedicated page](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/T7-Mythic-Immortal-Combinations)
 - |6성| 장비 (Zhang Fei) = T6 SCV
