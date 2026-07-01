@@ -153,10 +153,6 @@ Buy stones at the shop. It's a gatcha system. It costs 100 points to do a single
 Then you can spend your stones in the collections shop to unlock Mythic and Immortal heroes.
 ![](/media/a9-pointspending.png)
 In order to beat normal and hard difficulty you will need these unlocks.
-# New Map Versions
-The new map versions are typically on https://cafe.naver.com/f-e/cafes/17046257/articles/141229
-
-They update almost every week.
 
 # Shop Spending Tips
 So you want to min max your stones? 
@@ -322,6 +318,10 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 ## RD 80/90 Boss Gameplay Demo
 - This is a link to a video how I play healer on RD 80 and RD 90 Bosses: https://youtu.be/vAeHywVq7A8
 
+# New Map Versions
+The new map versions are typically on https://cafe.naver.com/f-e/cafes/17046257/articles/141229
+
+They update almost every week.
 
 # End
 I'm `StarFroz` on the US West Server and KR Server. 
@@ -335,7 +335,3 @@ You personally will experience stream lag, but other players don't experience th
 Stream lag runs at full and smooth game speed compared to real lag without the cloud gaming service. 
 
 Learn more about that here https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/geforcenow-for-KR-servers
-
-Date Authored: 06/20/2026
-
-Date Last Modified: 06/27/2026
