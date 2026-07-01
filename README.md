@@ -40,6 +40,8 @@ This can be done for any tier unit. But is necessary for tier 4 and higher combi
 #### Advanced Combinations
 This is explained in the picture. In the mini map area on the bottom left you can see advanced units on the left and your basic tier 1-6 units on the right side.
 
+When you select Tier 7 units there will be green dots and white dots highlighting what you have and don't have for that combination.
+
 ![](/media/3-advancedcombine.png)
 **How to view combinations**
 In the example above, the Medic has a special ability that gives you 1 mineral per round. The ability is shown on the bottom right grid upon selection.
@@ -171,14 +173,14 @@ You should go for all of the Mythics at least once first!
     - Click on mineral medic to upgrade to Mythic Medic (ideal when Kerrigan dies during team boss fight)
     - Mythic Medic has no base blink. She can only blink to team mates that have a full heart icon.
     - Mythic Medic shares team damage.
-- Mythics that are most versatile because they can build from probe, scv, or drone
-	- Sarah Kerrigan - Builds from T6 Probe + T7 Tassadar + 2 T3 Probes + Other T2s + T1s
-	- Blue Archon - Builds from T6 Drone + some T7?
-	- Marine - Builds T7 Dark Templar (From)
-- Harder to build
-	- Ling - T6 Drone?
+- Mythics that are most versatile because they can built from T6 Probe, T6 SCV, or T6 Drone
+	- Sarah Kerrigan - Directly builds from T6 Probe + T7 Tassadar + 2 T3 Probes + Other T2s + T1s
+	- Blue Archon - Indirectly builds from T6 Drone (T7 Ultralisk)
+	- Marine - Indirectly builds from T6 SCV (T7 Dark Templar)
+	- Ling - Directly builds from T6 Probe + Some T7
 - Hardest to build but highest DPS
 	- Defiler
+- All known mythic unit builds can be viewed on [this page](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/T7-Mythic-Immortal-Combinations)
 
 Then upgrade one of each Mythic's bonuses at least once. 
 The medic bonus is the one you should grab first.
@@ -204,6 +206,7 @@ Send these units into the boss arena either before or during the boss fight to g
 See this guide: 
 
 ## Individual Units Translated
+- T7 Units + Mythics are on [this dedicated page](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/T7-Mythic-Immortal-Combinations)
 - |6성| 장비 (Zhang Fei) = T6 SCV
 - |6성| 손견 (Son Gyeon)= T6 Probe
 - |6성| 하후연 (Xiahou Yuan / Hahu Yeon) = T6 Drone

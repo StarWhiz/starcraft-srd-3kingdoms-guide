@@ -80,6 +80,7 @@ Rely on the screenshots not my text descriptions because those I can make mistak
 ## T7 Zerg Kerrigan
 > [!NOTE]  
 > **Can only have 1 Zerg Kerrigan in the game. She is a healer. The mythic medic is built from her**
+
 - 1x T5 Bear (Builds from T5 Bear) + 1x T5 Corsair
 - 1x T4 Dragoon + 1x T4 Queen
 - 1x T3 Dropship + 1x T3 Scout
@@ -131,6 +132,10 @@ No Data
 ![](/media/mythic-zergling.png)
 
 ## Mythic Medic
+> [!NOTE]  
+> Mythic Medic has no base blink. She can only blink to team mates that have a full heart icon.
+> Mythic Medic shares team damage.
+
 - 1x T7 Zerg Kerrigan
 - 1x Regular Mineral Medic (Builds From Regular Mineral Medic)
 - 2x T5 Bear
