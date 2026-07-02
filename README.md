@@ -173,7 +173,7 @@ You should go for all of the Mythics at least once first!
 	- Sarah Kerrigan - Directly builds from T6 Probe + T7 Tassadar + 2 T3 Probes + Other T2s + T1s
 	- Blue Archon - Indirectly builds from T6 Drone (T7 Ultralisk)
 	- Marine - Indirectly builds from T6 SCV (T7 Dark Templar)
-	- Ling - Directly builds from T6 Probe + Some T7
+ 	- Ling - Requires a T6 Drone (No T7 Needed)
 - Hardest to build but highest DPS
 	- Defiler
 - All known mythic unit builds can be viewed on [this page](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/T7-Mythic-Immortal-Combinations)
