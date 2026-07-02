@@ -120,9 +120,8 @@ No Data
 
 ## Mythic Zergling
 > [!NOTE]  
-> Potentially missing data because screenshot was cut off
+> It doesn't require a T7 unit, but costs the same amount of units as any other mythics.
 
-- 1x T7 ??????
 - 1x T6 Drone
 - 2x T5 Zergling
 - 2x T4 Dark Templar
