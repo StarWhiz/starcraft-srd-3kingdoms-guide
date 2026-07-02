@@ -169,11 +169,13 @@ You should go for all of the Mythics at least once first!
     - Click on mineral medic to upgrade to Mythic Medic (ideal when Kerrigan dies during team boss fight)
     - Mythic Medic has no base blink. She can only blink to team mates that have a full heart icon.
     - Mythic Medic shares team damage.
-- Mythics that are most versatile because they can built from T6 Probe, T6 SCV, or T6 Drone
+- 3 Mythics that are most versatile if you have one of each because they can built from T6 Probe, T6 SCV, or T6 Drone either directly or indirectly
 	- Sarah Kerrigan - Directly builds from T6 Probe + T7 Tassadar + 2 T3 Probes + Other T2s + T1s
 	- Blue Archon - Indirectly builds from T6 Drone (T7 Ultralisk)
 	- Marine - Indirectly builds from T6 SCV (T7 Dark Templar)
- 	- Ling - Requires a T6 Drone (No T7 Needed)
+- Harder to build mythics
+    - Zergling - Requires a T6 Drone (No T7 Needed), might be hard to pull the 2x T5 Zergling requirement to build
+    - SCV
 - Hardest to build but highest DPS
 	- Defiler
 - All known mythic unit builds can be viewed on [this page](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/T7-Mythic-Immortal-Combinations)
