@@ -130,6 +130,9 @@ No Data
 
 ![](/media/mythic-zergling.png)
 
+## Mythic Defilier
+No Data. I already unlocked this for v21 so I will have the data soon.
+
 ## Mythic Medic
 > [!NOTE]  
 > Mythic Medic has no base blink. She can only blink to team mates that have a full heart icon.
