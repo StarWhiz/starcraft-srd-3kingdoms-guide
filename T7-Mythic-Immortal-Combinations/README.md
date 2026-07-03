@@ -99,7 +99,13 @@ Rely on the screenshots not my text descriptions because those I can make mistak
 ![](/media/mythic-marine.png)
 
 ## Mythic SCV
-No Data
+- 1x T7 Civilian
+- 1x T6 SCV
+- 1x T3 Dropship
+- 3x T2 SCV
+- 2x T1 Broodling
+
+No Screenshot Avaiable (I don't have it yet)
 
 ## Mythic Sarah Kerrigan
 - 1x T7 Tassadar
@@ -128,10 +134,15 @@ No Data
 - 2x T3 Guardian
 - 2x T1 Zergling
 
-![](/media/mythic-zergling.png)
+![](/media/mythic-zergling.jpg)
 
 ## Mythic Defilier
-No Data. I already unlocked this for v21 so I will have the data soon.
+- 1x T7 Hydralisk
+- 1x T5 Corsair
+- 3x T4 Queen
+- 2x T2 Defiler
+
+![](/media/mythic-defiler.jpg)
 
 ## Mythic Medic
 > [!NOTE]  
