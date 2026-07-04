@@ -320,6 +320,9 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 ## RD 80/90 Boss Gameplay Demo
 - This is a link to a video how I play healer on RD 80 and RD 90 Bosses: https://youtu.be/vAeHywVq7A8
 
+## RD 100 Boss
+- We don't actually win this one. This is our first time encountering round 100 boss. Apparently it bubbles you and your teammates. The bubble has a lot of HP. Teammates have to attack bubble to free each other. If team mate is trapped long enough they drown and die instantly. https://youtu.be/OapL_Y5dclE
+
 # New Map Versions
 The new map versions are typically on https://cafe.naver.com/f-e/cafes/17046257/articles/141229
 
