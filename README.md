@@ -326,9 +326,11 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 - The boss has 2 abilities to look out for.
 - The first ability bubbles you and your teammates who get stuck in it. The bubble has a lot of HP. Teammates have to attack bubble to free each other.
   - Once you are free you should get outside the red circle around the bubble pop otherwise you will be killed if you stay inside the red circle for too long.
+  - You can see this effect at 0:57 in the video where Terrigan and Medic free each other and get outside the red circle before the effect ends to survive.
 - The second ability is an instant death abililty that targets the player that is furthest from the boss.
   - There will be a count down timer from 5 seconds on the unit that is furthest away. The target for the count down changes depending on distance
   - After 5 seconds the unit that is furthest away dies.
+  - You can see this effect at 1:22 in the video
   - To mitgate this have a player with weak units stationed in the corner of the map away from the boss fight.
   - Once the ability is cast the weak unit should be insta killed instead of the stronger t7 and mythic units which are closer to the boss than the weak unit in the corner of the map.
 
