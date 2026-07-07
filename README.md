@@ -291,6 +291,7 @@ Credits to kentaco for teaching me this tech.
 
 ## RD 80/90 Zergling Boss Pattern
 - You need at least a Kerrigan healer to win this one.
+- These two bosses are encountered when playing on normal difficulty as easy difficulty only goes up to RD70
 
 - This boss is the Zergling. Nothing too dangerous here just take turns tanking damage as team and get healed on the healer. The dangerous part is when he uses ability to send hallucinations.
 - In this phase, the original is invulnerable to damage. And locks onto a target. It will prioritize healers like Zerg Kerrigan.
@@ -321,7 +322,7 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 - This is a link to a video how I play healer on RD 80 and RD 90 Bosses: https://youtu.be/vAeHywVq7A8
 
 ## RD 100 Boss
-- We don't actually win this one. This is our first time encountering round 100 boss.
+- We don't actually win this one. This is our first time encountering round 100 boss as it is an encounter when playing on hard difficulty.
 - Gameplay Video: https://youtu.be/OapL_Y5dclE
 - The boss has 2 abilities to look out for.
 - The first ability bubbles you and your teammates who get stuck in it. The bubble has a lot of HP. Teammates have to attack bubble to free each other.
