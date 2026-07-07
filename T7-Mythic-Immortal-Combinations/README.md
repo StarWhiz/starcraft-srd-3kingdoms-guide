@@ -35,7 +35,7 @@ Rely on the screenshots not my text descriptions because those I can make mistak
 - 2x T4 Ghost (Builds from T4 Ghost)
 - 1x T3 Probe
 - 1x T3 Scout
-- 2x T2 Marine
+- 2x T1 Marine
 
 ![](/media/T7-Ghost.jpg)
 
@@ -57,12 +57,12 @@ Rely on the screenshots not my text descriptions because those I can make mistak
 - 1x T6 Probe
 - 2x T4 Dragoon (Builds from T4 Dragoon)
 - 1x T3 Scout
-- 2x T2 Zealot + 2x T2 interceptor
+- 2x T2 Zealot + 2x T2 Interceptor
 - 2x T1 Broodling
 
 ![](/media/T7-Dragoon.jpg)
 
-## T7 Hydra
+## T7 Hydralisk
 - 1x T6 Drone (Builds from T6 Drone)
 - 2x T4 Queen
 - 1x T3 Defiler
@@ -77,7 +77,7 @@ Rely on the screenshots not my text descriptions because those I can make mistak
 
 ![](/media/T7-Ultra.jpg)
 
-## T7 Zerg Kerrigan
+## T7 Zerg Kerrigan (aka Zerrigan)
 > [!NOTE]  
 > **Can only have 1 Zerg Kerrigan in the game. She is a healer. The mythic medic is built from her**
 
@@ -87,7 +87,8 @@ Rely on the screenshots not my text descriptions because those I can make mistak
 
 ![](/media/T7-Kerrigan.jpg)
 
-# Mythics So Far
+# Mythics
+
 ## Mythic Marine
 - 1x T7 Dark Templar
 - 1x T5 Marine
@@ -105,13 +106,13 @@ Rely on the screenshots not my text descriptions because those I can make mistak
 - 3x T2 SCV
 - 2x T1 Broodling
 
-No Screenshot Avaiable (I don't have it yet)
+No Screenshot Available (I don't have it yet)
 
-## Mythic Sarah Kerrigan
+## Mythic Sarah Kerrigan (aka Terrigan)
 - 1x T7 Tassadar
 - 1x T6 Probe
 - 2x T3 Probe (Builds from T3 Probe)
-- 1x T2 interceptor + 2x T2 Scourge
+- 1x T2 Interceptor + 2x T2 Scourge
 - 2x T1 Dark Templar + 2x T1 Marine
 
 ![](/media/mythic-sarah-kerrigan.png)
@@ -136,11 +137,11 @@ No Screenshot Avaiable (I don't have it yet)
 
 ![](/media/mythic-zergling.jpg)
 
-## Mythic Defilier
+## Mythic Defiler
 - 1x T7 Hydralisk
 - 1x T5 Corsair
 - 3x T4 Queen
-- 2x T2 Defiler
+- 2x T3 Defiler
 
 ![](/media/mythic-defiler.jpg)
 
@@ -156,3 +157,55 @@ No Screenshot Avaiable (I don't have it yet)
 - 2x T2 Scourge
 
 ![](/media/mythic-medic.png)
+
+# Immortals
+
+## Immortal Civilian
+No Data
+
+## Immortal Light Dark Templar
+- 1x T7 Dark Templar + 1x T7 Ultralisk
+- 1x T5 Marine
+- 1x T4 Ghost
+- 1x T3 Wraith
+- 3x T2 Vulture
+- 2x T1 Drone + 2x T1 Dark Templar
+
+![](/media/immortal-darktemplar.png)
+
+## Immortal Dark Archon
+No Data
+
+## Immortal Zealot
+- 1x T7 Zealot
+- 1x T6 Probe
+- 1x T4 Firebat + 2x T4 Dark Templar
+- 2x T3 Probe
+- 3x T2 Zealot
+- 2x T1 Dark Templar
+
+![](/media/immortal-zealot.png)
+
+## Immortal Templar
+No Data
+
+## Immortal Hydra
+- 1x T7 Hydralisk
+- 1x T6 Drone
+- 2x T5 Zergling
+- 1x T3 Guardian + 1x T3 Defiler
+- 3x T2 Hydralisk
+- 1x T1 Drone + 1x T1 Dark Templar
+
+![](/media/immortal-hydra.png)
+
+## Immortal Darker Templar
+No Data
+
+## Immortal Zerg Kerrigan (Immortal Zerrigan)
+- 1x T7 Zerg Kerrigan + 1x T7 Dark Templar
+- 1x T5 Bear
+- 1x T4 Dragoon
+- 1x T2 Interceptor + 1x T2 Hydralisk + 1x T2 Scourge
+
+![](/media/immortal-zerrigan.png)
