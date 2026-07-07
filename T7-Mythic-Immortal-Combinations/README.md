@@ -1,7 +1,8 @@
 These are the visual unit combinations for all the Tier 7 Units + of the Mythics I own and other people own.
 
 ```
-Credits to Mister.K for Archon, Marine, and Ling Mythics.
+Credits to Mister.K for Mythics: Archon, Marine, and Ling Mythics.
+Credits to Scroto.Baggins for Immortals: Light DT, Zealot, Hydralisk, Zerrigan
 ```
 
 Rely on the screenshots not my text descriptions because those I can make mistakes on...
