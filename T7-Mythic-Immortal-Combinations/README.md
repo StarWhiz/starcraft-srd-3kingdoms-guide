@@ -242,7 +242,7 @@ No Data
 ![](/media/immortal-zerrigan.png)
 
 ## Mythic Bonuses
-These cost 50 stones per upgrade after you have your mythic unlocked.
+These cost 50 stones per initial upgrade after you have your mythic unlocked. Then the stone costs increases each time.
 
 I'll probably be going for the No.7 Upgrade, No.2 Upgrade, and No.4 Upgrade at least once first.
 
