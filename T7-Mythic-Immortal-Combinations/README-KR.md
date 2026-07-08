@@ -7,7 +7,8 @@
 
 ```
 신화 유닛 (아콘, 마린, 링) 제공: Mister.K
-불멸 유닛 (라이트 DT, 질럿, 히드라리스크, Zerrigan) 제공: Scroto.Baggins
+불멸 유닛 (No.2-라이터 DT, No.4-질럿, No.6-히드라리스크, No.8-Zerrigan) 제공: Scroto.Baggins
+불멸 유닛 (No.1-시빌리언, No.5-템플러) 제공: TKKTKK
 ```
 
 제 텍스트 설명보다는 스크린샷을 신뢰하세요. 텍스트 설명에는 제가 실수한 부분이 있을 수 있습니다...
@@ -52,7 +53,7 @@
 
 ![](/media/T7-Zealot.jpg)
 
-## T7 태사다르 (Tassadar)
+## T7 태사다르 (Tassadar, 일명 Templar)
 - T5 커세어 1개 (T5 커세어에서 제작) + T5 저글링 1개
 - T4 파이어뱃 1개 + T4 드라군 1개
 - T3 디파일러 2개
@@ -81,6 +82,8 @@
 - T4 파이어뱃 1개
 - T3 스카웃 2개 + T3 가디언 2개 + T3 디파일러 1개
 
+액티브 스킬 (Q): 팀 전체가 1초간 무적이 됩니다.
+
 ![](/media/T7-Ultra.jpg)
 
 ## T7 저그 케리건 (일명 Zerrigan)
@@ -91,11 +94,13 @@
 - T4 드라군 1개 + T4 퀸 1개
 - T3 드랍십 1개 + T3 스카웃 1개
 
+액티브 스킬 (Q): 넓은 범위(AoE) 전체 회복.
+
 ![](/media/T7-Kerrigan.jpg)
 
 # 신화 (Mythic) 유닛
 
-## 신화 마린 (Mythic Marine)
+## 1. 신화 마린 (Mythic Marine)
 - T7 다크 템플러 1개
 - T5 마린 1개
 - T4 고스트 2개 + T4 파이어뱃 1개
@@ -103,27 +108,33 @@
 - T2 벌처 3개
 - T1 드론 2개
 
+액티브 스킬 (Q): 마우스로 가리킨 지점에 창을 던져 매우 넓은 범위(AoE)의 모든 유닛에게 피해를 줍니다.
+
 ![](/media/mythic-marine.png)
 
-## 신화 SCV (Mythic SCV)
+## 2. 신화 SCV (Mythic SCV)
 - T7 시빌리언 1개
 - T6 SCV 1개
 - T3 드랍십 1개
 - T2 SCV 3개
 - T1 브루들링 2개
 
+액티브 스킬 (Q): 3초간 무적.
+
 스크린샷 없음 (아직 보유하지 않음)
 
-## 신화 사라 케리건 (일명 Terrigan)
-- T7 태사다르 1개
+## 3. 신화 사라 케리건 (일명 Terrigan)
+- T7 태사다르 (Templar) 1개
 - T6 프로브 1개
 - T3 프로브 2개 (T3 프로브에서 제작)
 - T2 인터셉터 1개 + T2 스커지 2개
 - T1 다크 템플러 2개 + T1 마린 2개
 
+액티브 스킬 (Q): 한 지점에 빛의 검을 여러 개 내리꽂습니다. 매우 좁은 범위(AoE).
+
 ![](/media/mythic-sarah-kerrigan.png)
 
-## 신화 블루 아콘 (Mythic Blue Archon)
+## 4. 신화 블루 아콘 (Mythic Blue Archon)
 - T7 울트라리스크 1개
 - T5 커세어 1개
 - T5 저글링 1개
@@ -131,7 +142,7 @@
 
 ![](/media/mythic-archon.png)
 
-## 신화 저글링 (Mythic Zergling)
+## 5. 신화 저글링 (Mythic Zergling)
 > [!NOTE]  
 > T7 유닛이 필요하지 않지만, 다른 신화 유닛과 동일한 수의 유닛이 소모됩니다.
 
@@ -141,17 +152,21 @@
 - T3 가디언 2개
 - T1 저글링 2개
 
+액티브 스킬 (Q): 보스를 중단시키고 몇 초간 1대1로 묶어둡니다.
+
 ![](/media/mythic-zergling.jpg)
 
-## 신화 디파일러 (Mythic Defiler)
+## 6. 신화 디파일러 (Mythic Defiler)
 - T7 히드라리스크 1개
 - T5 커세어 1개
 - T4 퀸 3개
 - T3 디파일러 2개
 
+액티브 스킬 (Q): 넓은 범위(AoE)에 지속 피해를 주는 스킬. 연속 사용 가능.
+
 ![](/media/mythic-defiler.jpg)
 
-## 신화 메딕 (Mythic Medic)
+## 7. 신화 메딕 (Mythic Medic)
 > [!NOTE]  
 > 신화 메딕은 기본 블링크가 없습니다. 하트 아이콘이 가득 찬 팀원에게만 블링크할 수 있습니다.
 > 신화 메딕은 팀 데미지를 공유합니다.
@@ -162,14 +177,22 @@
 - T2 인터셉터 2개
 - T2 스커지 2개
 
+액티브 스킬 (E): 거리에 관계없이 하트 아이콘이 가득 찬 팀원에게 블링크하여 체력의 50%를 회복시킵니다. 쿨다운 3초. 연속 사용 가능.
+
 ![](/media/mythic-medic.png)
 
 # 불멸 (Immortal) 유닛
 
-## 불멸 시빌리언 (Immortal Civilian)
-데이터 없음
+## 1. 불멸 시빌리언 (Immortal Civilian)
+- T7 시빌리언 1개
+- T6 SCV 2개
+- T3 드랍십 1개 + T3 프로브 2개
+- T2 SCV 1개
+- T1 드론 2개 + T1 다크 템플러 2개 + T1 저글링 2개
 
-## 불멸 라이트 다크 템플러 (Immortal Light Dark Templar)
+![](/media/immortal-civilian.png)
+
+## 2. 불멸 라이터 다크 템플러 (Immortal Lighter Dark Templar)
 - T7 다크 템플러 1개 + T7 울트라리스크 1개
 - T5 마린 1개
 - T4 고스트 1개
@@ -179,10 +202,10 @@
 
 ![](/media/immortal-darktemplar.png)
 
-## 불멸 다크 아콘 (Immortal Dark Archon)
-데이터 없음
+## 3. 불멸 다크 아콘 (Immortal Dark Archon)
+BETA 22 패치에서 잠금 해제할 때까지 데이터 없음.
 
-## 불멸 질럿 (Immortal Zealot)
+## 4. 불멸 질럿 (Immortal Zealot)
 - T7 질럿 1개
 - T6 프로브 1개
 - T4 파이어뱃 1개 + T4 다크 템플러 2개
@@ -192,10 +215,17 @@
 
 ![](/media/immortal-zealot.png)
 
-## 불멸 템플러 (Immortal Templar)
-데이터 없음
+## 5. 불멸 템플러 (Immortal Templar)
+- T7 태사다르 (Templar) 1개 + T7 다크 아콘 1개
+- T5 커세어 1개
+- T4 퀸 1개
+- T3 레이스 1개
+- T2 인터셉터 3개
+- T1 마린 2개 + T1 브루들링 2개
 
-## 불멸 히드라 (Immortal Hydra)
+![](/media/immortal-templar.png)
+
+## 6. 불멸 히드라리스크 (Immortal Hydralisk)
 - T7 히드라리스크 1개
 - T6 드론 1개
 - T5 저글링 2개
@@ -205,13 +235,32 @@
 
 ![](/media/immortal-hydra.png)
 
-## 불멸 다커 템플러 (Immortal Darker Templar)
+## 7. 불멸 다커 다크 템플러 (Immortal Darker Dark Templar)
 데이터 없음
 
-## 불멸 저그 케리건 (Immortal Zerrigan)
+## 8. 불멸 저그 케리건 (Immortal Zerrigan)
 - T7 저그 케리건 1개 + T7 다크 템플러 1개
 - T5 베어 1개
 - T4 드라군 1개
 - T2 인터셉터 1개 + T2 히드라리스크 1개 + T2 스커지 1개
 
 ![](/media/immortal-zerrigan.png)
+
+## 신화 보너스 (Mythic Bonuses)
+신화 유닛을 잠금 해제한 후, 업그레이드당 돌(스톤) 50개가 듭니다.
+
+저는 아마 No.7, No.2, No.4 업그레이드를 먼저 최소 한 번씩 노릴 것 같습니다.
+
+No.1 - 마린: 모든 스킬 피해량 증가 +5%
+No.2 - SCV: 3~4성 공격력 업그레이드 +1
+No.3 - 사라 케리건: 시작 시 미네랄 +5/+3/+2/+2/+2
+No.4 - 블루 아콘: 5~6성 공격력 업그레이드 +1
+No.5 - 저글링: 1성 유닛을 미네랄 3개에 파는 확률 증가 +5%
+No.6 - 디파일러: 초당 마나 회복 +0.5
+No.7 - 메딕: 다른 세계에서 추가 미네랄을 얻을 확률 +30%
+
+
+## 불멸 보너스 (Immortal Bonuses)
+저는 이것 하나만 가지고 있습니다...
+
+No.3 다크 아콘: 라인 및 미션 이동 속도 감소 -10%

@@ -95,7 +95,7 @@ As a team, send these units into the boss arena either just before or during the
 
 RD 25 - One of each T3 Unit except for T3 Defiler  
 RD 40 - One of each T4 Unit  
-RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
+RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydralisk
 
 # Account Linking Guide
 You can read the official guide in Korean here with google translate: [https://srdrecords.kr/guide](https://srdrecords.kr/guide) 
@@ -165,11 +165,11 @@ So you want to min max your stones?
 
 You should go for all of the Mythics at least once first!
 - Medic is a necessity. It's a super healer that blinks to heal teammates.
-	- She is built from T7 Kerrigan + 2x T5 Ursadons + Mineral Medic + 2x T2 Scourge + 2 T2 Intercepters
+	- She is built from T7 Kerrigan + 2x T5 Ursadons + Mineral Medic + 2x T2 Scourge + 2 T2 Interceptors
     - Click on mineral medic to upgrade to Mythic Medic (ideal when Kerrigan dies during team boss fight)
     - Mythic Medic has no base blink. She can only blink to team mates that have a full heart icon.
     - Mythic Medic shares team damage.
-- 3 Mythics that are most versatile if you have one of each because they can built from T6 Probe, T6 SCV, or T6 Drone either directly or indirectly
+- 3 Mythics that are most versatile if you have one of each because they can be built from T6 Probe, T6 SCV, or T6 Drone either directly or indirectly
 	- Sarah Kerrigan - Directly builds from T6 Probe + T7 Tassadar + 2 T3 Probes + Other T2s + T1s
 	- Blue Archon - Indirectly builds from T6 Drone (T7 Ultralisk)
 	- Marine - Indirectly builds from T6 SCV (T7 Dark Templar)
@@ -198,7 +198,7 @@ Good luck!
 Send these units into the boss arena either before or during the boss fight to get a bonus. It's preferable to send then before as a team so you can swap out to higher tier units faster.
 - RD 25 - One of each T3 Unit except for T3 Defiler
 - RD 40 - One of each T4 Unit
-- RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydra
+- RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydralisk
 
 ## Individual Units Translated
 - T7 Units + Mythics are on [this dedicated page](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/T7-Mythic-Immortal-Combinations)
@@ -228,7 +228,7 @@ Send these units into the boss arena either before or during the boss fight to g
 - |2성| 마초 (Ma Chao / Ma Cho) = T2 Vulture
 - |2성| 주태 (Zhou Tai / Ju Tae) = T2 Zealot
 - |2성| 소교 (Xiao Qiao / So Gyo)= T2 Interceptor
-- |2성| 가후 (Jia Xu / Ga Hu) = T2 Hydra
+- |2성| 가후 (Jia Xu / Ga Hu) = T2 Hydralisk
 - |2성| 견희 (Zhen Ji / Gyeon Hui) = T2 Scourge
 
 - |1성| 창병 (Spearman / Changbyeong) = T1 Drone
@@ -243,7 +243,7 @@ Send these units into the boss arena either before or during the boss fight to g
 ## Individual Missions
 ### T1
 - 2x of each T1 Unit
-- 3x T1 Dark Templar **기병** + 3x T1 Marine **궁병**+ 3x T1 Drone **창병**
+- 3x T1 Dark Templar **검병** + 3x T1 Marine **궁병**+ 3x T1 Drone **창병**
 - **Tip:** Keep **2x T1 Zerglings 기병** and **2x T1 Dark Templars** after getting the flags above
 
 ### T2
@@ -259,13 +259,13 @@ Send these units into the boss arena either before or during the boss fight to g
 - 1x T3 Guardian **허저** + 1x T3 Defiler **순욱** + 1x T2 Hydralisk **가후** + 1x T2 Scourge **견희**
 	- **Tip:** Keep **1x T2 Hydralisk** and **1x T2 Scourge**
 - 1x T3 Wraith **서서**+ 1x T3 Dropship **방통** + 1x T3 Defiler **순욱** + 1x T2 Hydralisk **가후**
-	- **Tip:** Keep **1x T1 Hydralisk**
+	- **Tip:** Keep **1x T2 Hydralisk**
 - 5x T3 Probe **손상향**
 
 ### T4
 **Tip:** Probe is Multi Purpose
 - 1x of each T4 Unit
-- 1x T4 Dragoon **육손** + 1x T3 Probe **손상향** + 1x T3 Scout **능통** + 1x T2 Zealot **주태**+ 1x T2 Intercepter **소교**
+- 1x T4 Dragoon **육손** + 1x T3 Probe **손상향** + 1x T3 Scout **능통** + 1x T2 Zealot **주태**+ 1x T2 Interceptor **소교**
 	- **Tip:** This is a Protoss Combo
 - 1x T4 Ghost **황충**, 1x T4 Firebat **관평**, 1x T3 Dropship **방통** + 1x T2 SCV **위연**
 	- **Tip:** This is Dropship + T4 Terran Infantry + SCV
@@ -278,13 +278,13 @@ If you're about to die late game, turn off your line Bosses you might survive. I
 
 ## RD 55 Boss Cheesing Guide
 - The idea here is to separate the bosses.
-- The Marine is the one that always spawns broodlings. He stops spawning broodlings when there are alot of broodlings on the field.
+- The Marine is the one that always spawns broodlings. He stops spawning broodlings when there are a lot of broodlings on the field.
 - The strat is to do your RD55 Team of 5 Bonus early by placing your units before the boss fight in the top left corner.
 	- All players teleport back to base after bonus is distributed.
     - We do this so we can spend more time killing the boss rather than coordinating the team bonus during the fight.
-- Have one player lures SCV and Zergling bosses first to a corner preferably with the broodlings
-	- The one player teleports the lure unit back to base
-- The marine boss will automatically come back to the center of the map
+- Have one player lure all units first to the top right corner (you can do any corner but top right is best)
+	- The one player teleports back to base
+- The marine boss will automatically come back to the center of the map once everyone is back to town
 - All players teleport in, to kill the marine.  
 
 Credits to kentaco for teaching me this tech.
@@ -328,12 +328,12 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 - The first ability bubbles you and your teammates who get stuck in it. The bubble has a lot of HP. You can attack your own bubble if you click on it. Teammates also have the ability to attack bubbles on healer. Save mythic abilities to damage the bubbles.
   - Once you are free you should get outside the red circle around the bubble pop otherwise you will be killed if you stay inside the red circle for too long.
   - You can see this effect at 0:57 in the video where Terrigan and Medic free each other and get outside the red circle before the effect ends to survive.
-- The second ability is an instant death abililty that targets the player that is furthest from the boss.
+- The second ability is an instant death ability that targets the player that is furthest from the boss.
   - There will be a count down timer from 5 seconds on the unit that is furthest away. The target for the count down changes depending on distance
   - After 5 seconds the unit that is furthest away dies.
   - Mythic SCV or T7 ultra or any unit with invulnerability can tank it. 
   - You can see this effect at 1:22 in the video: The 5 second timer starts on the Zergling, which is furthest from the boss, the timer then moves to the Dark Templar which becomes the farthest unit when the Zergling gets closer.
-  - To mitgate this have a player with weak units stationed in the corner of the map away from the boss fight.
+  - To mitigate this have a player with weak units stationed in the corner of the map away from the boss fight.
   - Once the ability is cast the weak unit should be insta killed instead of the stronger t7 and mythic units which are closer to the boss than the weak unit in the corner of the map.
 
 # New Map Versions
