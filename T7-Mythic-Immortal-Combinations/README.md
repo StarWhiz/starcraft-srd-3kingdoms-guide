@@ -246,16 +246,16 @@ These cost 50 stones per upgrade after you have your mythic unlocked.
 
 I'll probably be going for the No.7 Upgrade, No.2 Upgrade, and No.4 Upgrade at least once first.
 
-No.1 - Marine: Increases damage to all skills +5%
-No.2 - SCV: 3∼4 star attack power upgrade +1
-No.3 - Sarah Kerrigan: Minerals at startup +5/+3/+2/+2/+2
-No.4 - Blue Archon: 5∼6 star attack power upgrade +1
-No.5 - Zergling: Increased probability of selling 1 star units for 3 minerals +5%
-No.6 - Defiler: Mana recovery per second +0.5
-No.7 - Medic: Probability of obtaining additional minerals from another world +30%
+- No.1 - Marine: Increases damage to all skills +5%
+- No.2 - SCV: 3∼4 star attack power upgrade +1
+- No.3 - Sarah Kerrigan: Minerals at startup +5/+3/+2/+2/+2
+- No.4 - Blue Archon: 5∼6 star attack power upgrade +1
+- No.5 - Zergling: Increased probability of selling 1 star units for 3 minerals +5%
+- No.6 - Defiler: Mana recovery per second +0.5
+- No.7 - Medic: Probability of obtaining additional minerals from another world +30%
 
 
 ## Immortal Bonuses
 I only have this one...
 
-No.3 Dark Archon: Reduced line and mission movement speed -10%
+- No.3 Dark Archon: Reduced line and mission movement speed -10%
