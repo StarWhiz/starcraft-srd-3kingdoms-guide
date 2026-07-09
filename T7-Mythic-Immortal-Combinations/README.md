@@ -1,9 +1,9 @@
-These are the visual unit combinations for all the Tier 7 Units + of the Mythics I own and other people own.
+These are the visual unit combinations for all the Tier 7 Units + of the Mythics I own and other people own. It's not 100% complete.
 
 ```
 Credits to Mister.K for Mythics: Archon, Marine, and Ling Mythics.
 Credits to Scroto.Baggins for Immortals: No.2-Lighter DT, No.4-Zealot, No.6-Hydralisk, No.8-Zerrigan
-Credits to TKKTKK for Immortals: No.1-Civilian, No.5-Templar
+Credits to TKKTKK for Immortals: No.1-Civilian, No.5-Templar + Most of the immortal bonuses on the website
 ```
 
 Rely on the screenshots not my text descriptions because those I can make mistakes on...
@@ -94,6 +94,7 @@ Active Ability (Q): Large AoE Full Heal
 ![](/media/T7-Kerrigan.jpg)
 
 # Mythics
+Untranslated Raw Video (Includes Recipe + Abilities): https://youtu.be/G3k_fSbSQnM
 
 ## 1. Mythic Marine
 - 1x T7 Dark Templar
@@ -198,7 +199,14 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 ![](/media/immortal-darktemplar.png)
 
 ## 3. Immortal Dark Archon
-No Data until I unlock on BETA 22 patch.
+- 1x T7 Dark Archon
+- 1x T6 SCV
+- 1x T5 Corsair
+- 2x T4 Dragoon + 2x T4 Queen
+- 3x T2 Hydralisk
+- 2x T1 Marine + 2x T1 Broodling
+
+![](/media/immortal-darkarchon.jpg)
 
 ## 4. Immortal Zealot
 - 1x T7 Zealot
@@ -210,12 +218,12 @@ No Data until I unlock on BETA 22 patch.
 
 ![](/media/immortal-zealot.png)
 
-## 5. Immortal Templar
+## 5. Immortal Tassadar (Templar)
 - 1x T7 Tassadar (Templar) + 1x T7 Dark Archon
 - 1x T5 Corsair
 - 1x T4 Queen
 - 1x T3 Wraith
-- 3x T2 Interceptors
+- 3x T2 Interceptor
 - 2x T1 Marine + 2x T1 Broodling
 
 ![](/media/immortal-templar.png)
@@ -242,7 +250,7 @@ No Data
 ![](/media/immortal-zerrigan.png)
 
 ## Mythic Bonuses
-These cost 50 stones per initial upgrade after you have your mythic unlocked. Then the stone costs increases each time.
+These cost 50 stones per initial upgrade after you have your mythic unlocked. Then the stone cost increases each time.
 
 I'll probably be going for the No.7 Upgrade, No.2 Upgrade, and No.4 Upgrade at least once first.
 
@@ -256,6 +264,12 @@ I'll probably be going for the No.7 Upgrade, No.2 Upgrade, and No.4 Upgrade at l
 
 
 ## Immortal Bonuses
-I only have this one...
 
-- No.3 Dark Archon: Reduced line and mission movement speed -10%
+- No.1 - Civilian: Shu Kingdom attack power upgrade +1
+- No.2 - Lighter Dark Templar: +1 additional 1-Star unit at start
+- No.3 - Dark Archon: Reduced line and mission movement speed -10%
+- No.4 - Zealot: Wu Kingdom attack power upgrade +1
+- No.5 - Tassadar (Templar): Line & mission enemy HP -5%
+- No.6 - Hydralisk: Wei Kingdom attack power upgrade +1
+- No.7 - Darker Dark Templar: No Data
+- No.8 - Zerg Kerrigan: 10% Chance to resurrect upon unit death
