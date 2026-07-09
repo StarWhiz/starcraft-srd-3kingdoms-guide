@@ -273,6 +273,12 @@ Send these units into the boss arena either before or during the boss fight to g
 ### T5
 - 1x of each T5 Unit
 
+Below is a helpful visual of missions. Credits to Keikaku on US West.
+
+![](/media/keikakus-missions.png)
+
+
+
 ## Random Tip
 If you're about to die late game, turn off your line Bosses you might survive. I died at round 89/90 one time because I didn't consider that option when I had the Mythic Medic which seems to do less damage than Kerrigan
 
