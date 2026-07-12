@@ -178,6 +178,7 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 ![](/media/mythic-medic.png)
 
 # Immortals
+It's very difficult to build immortals because it requires a specific loot box item unit to build one of each along with the base formulas below.
 
 ## 1. Immortal Civilian
 - 1x T7 Civilian
@@ -185,6 +186,7 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 - 1x T3 Dropship + 2x T3 Probe
 - 1x T2 SCV
 - 2x T1 Drone + 2x T1 Dark Templar + 2x T1 Zergling
+- Lootbox Item Required: Broodling
 
 ![](/media/immortal-civilian.png)
 
@@ -195,6 +197,7 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 - 1x T3 Wraith
 - 3x T2 Vulture
 - 2x T1 Drone + 2x T1 Dark Templar
+- Lootbox Item Required: No Data
 
 ![](/media/immortal-darktemplar.png)
 
@@ -205,6 +208,7 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 - 2x T4 Dragoon + 2x T4 Queen
 - 3x T2 Hydralisk
 - 2x T1 Marine + 2x T1 Broodling
+- Lootbox Item Required: No Data
 
 ![](/media/immortal-darkarchon.jpg)
 
@@ -215,6 +219,7 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 - 2x T3 Probe
 - 3x T2 Zealot
 - 2x T1 Dark Templar
+- Lootbox Item Required: Zealot
 
 ![](/media/immortal-zealot.png)
 
@@ -225,6 +230,7 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 - 1x T3 Wraith
 - 3x T2 Interceptor
 - 2x T1 Marine + 2x T1 Broodling
+- Lootbox Item Required: Firebat
 
 ![](/media/immortal-templar.png)
 
@@ -235,6 +241,7 @@ Active Ability (E): From any distance blink to teammate with a full heart icon a
 - 1x T3 Guardian + 1x T3 Defiler
 - 3x T2 Hydralisk
 - 1x T1 Drone + 1x T1 Dark Templar
+- Lootbox Item Required: Zergling
 
 ![](/media/immortal-hydra.png)
 
@@ -246,6 +253,7 @@ No Data
 - 1x T5 Bear
 - 1x T4 Dragoon
 - 1x T2 Interceptor + 1x T2 Hydralisk + 1x T2 Scourge
+- Lootbox Item Required: Medic
 
 ![](/media/immortal-zerrigan.png)
 

@@ -329,18 +329,19 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 
 ## RD 100 Boss
 - We don't actually win this one. This is our first time encountering round 100 boss as it is an encounter when playing on hard difficulty.
-- Gameplay Video: https://youtu.be/OapL_Y5dclE
+- Very first Gameplay Video: https://youtu.be/OapL_Y5dclE
+- TKKTKK's Gameplay Video (More Experienced): https://www.youtube.com/watch?v=bo8izD0dUPA
 - The boss has 2 abilities to look out for.
-- The first ability bubbles you and your teammates who get stuck in it. The bubble has a lot of HP. You can attack your own bubble if you click on it. Teammates also have the ability to attack bubbles on healer. Save mythic abilities to damage the bubbles.
-  - Once you are free you should get outside the red circle around the bubble pop otherwise you will be killed if you stay inside the red circle for too long.
-  - You can see this effect at 0:57 in the video where Terrigan and Medic free each other and get outside the red circle before the effect ends to survive.
+- The first ability bubbles you and your teammates who get stuck in it. The bubble has a lot of HP. You can attack your own bubble if you click on it. Teammates also have the ability to attack bubbles on healer. Save mythic abilities to damage the bubbles because the bubbles have 5,000,000 HP auto attacks from a single hero doesn't do enough damage.
+  - Once you are free of the bubble you should get outside the red circle around the bubble before it pops, otherwise you will be killed if you stay inside the red circle for too long.
+  - You can see this effect at in the first video at 0:57 where Terrigan and Medic free each other and get outside the red circle before the effect ends to survive.
 - The second ability is an instant death ability that targets the player that is furthest from the boss.
   - There will be a count down timer from 5 seconds on the unit that is furthest away. The target for the count down changes depending on distance
   - After 5 seconds the unit that is furthest away dies.
   - Mythic SCV or T7 ultra or any unit with invulnerability can tank it. 
-  - You can see this effect at 1:22 in the video: The 5 second timer starts on the Zergling, which is furthest from the boss, the timer then moves to the Dark Templar which becomes the farthest unit when the Zergling gets closer.
-  - To mitigate this have a player with weak units stationed in the corner of the map away from the boss fight.
-  - Once the ability is cast the weak unit should be insta killed instead of the stronger t7 and mythic units which are closer to the boss than the weak unit in the corner of the map.
+  - You can see this effect at 1:22 in the first video: The 5 second timer starts on the Zergling, which is furthest from the boss, the timer then moves to the Dark Templar which becomes the farthest unit when the Zergling gets closer.
+  - To mitigate this, use units with invulnerability (Mythic SCV, Mythic, Archon, T7 Ultralisk) to tank the timer. Have these units move away from the boss while everyone else moves closer. SCV and Archon can only tank 3 times after tanking turns. Another unit like a sacrificial T4 will have to take place while their abilities are on cooldown
+  - Alternatively, have a player with weak units stationed in the corner of the map away from the boss fight before the ability activates. Once the bosse's insta death ability is cast the weak unit should be insta killed instead of the stronger t7 and mythic units which are closer to the boss.
 
 # New Map Versions
 The new map versions are typically on https://cafe.naver.com/f-e/cafes/17046257/articles/141229
