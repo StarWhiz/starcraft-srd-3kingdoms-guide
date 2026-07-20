@@ -246,7 +246,12 @@ It's very difficult to build immortals because it requires a specific loot box i
 ![](/media/immortal-hydra.png)
 
 ## 7. Immortal Darker Dark Templar
-No Data
+- 1x T7 Zealot
+- 1x T6 Drone
+- 1x T5 Marine + 1x T5 Ursadon (Bear)
+- 2x T2 Hydralisk
+- 2x T1 Drone, 2x T1 Zergling
+- Lootbox Item Required: Puma (Bengalass)
 
 ## 8. Immortal Zerg Kerrigan (Immortal Zerrigan)
 - 1x T7 Zerg Kerrigan + 1x T7 Dark Templar
@@ -281,3 +286,8 @@ I'll probably be going for the No.7 Upgrade, No.2 Upgrade, and No.4 Upgrade at l
 - No.6 - Hydralisk: Wei Kingdom attack power upgrade +1
 - No.7 - Darker Dark Templar: No Data
 - No.8 - Zerg Kerrigan: 10% Chance to resurrect upon unit death
+
+# Keikaku's Hero Summary Chart
+Credits to Keikaku
+
+![](/media/keikakus-herosummary.png)
