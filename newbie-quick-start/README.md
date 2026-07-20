@@ -62,7 +62,15 @@ Were you wondering what the mineral switch (A) button was for on the psi emitter
 You can also recycle your tier 1 units into minerals as an alternative source of minerals by selecthing them and pressing (D)
 
 How upgrading is done is shown below
+
+> [!IMPORTANT]  
+> You need 7 upgrades before round 25 to survive. So turn on minerals on Psi Emitter with A around RD20-RD25. Turn it off after 25.
+
 ![](/media/5-upgrades.png)
+
+
+
+
 
 #### Recycling Tier 1 Units for Minerals
 ![](/media/6-recyclet1s.png)
