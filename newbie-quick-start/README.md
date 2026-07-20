@@ -103,7 +103,7 @@ This concludes the quick start.
 .
 
 # MISC INFO
-You can stop reading here or read more if you want to be extra helpful. If you want to know more advanced stuff read the full guide https://urls.starfroz.com/srd
+You can stop reading here or continue on till the end if you want to be extra helpful. If you want to know more advanced stuff read the full guide https://urls.starfroz.com/srd
 
 The stuff below is more important late game than early game. Focus on learning the early game first.
 
