@@ -21,3 +21,6 @@ Sometimes you're lucky and you can start the RD55 boss early because you have en
 
 # RD 100 Boss
 See https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide#rd-100-boss for advice on how to beat him
+
+# Full Gameplay Hard Clear (RD 110 Boss Cleared)
+https://youtu.be/cbDh9GvK5iM
