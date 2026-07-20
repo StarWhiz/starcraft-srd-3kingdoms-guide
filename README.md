@@ -1,6 +1,8 @@
 ![](/media/0-title.png)
 
-This is a guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜디)
+This is the full guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜디)
+
+If this is your first time playing read the newbie-quick-start instead: 
 
 한국어 가이드를 보시려면 여기를 클릭하세요 (KR Guide): https://urls.starfroz.com/srd-kr
 
@@ -57,18 +59,27 @@ How upgrading is done is shown below
 #### Recycling Tier 1 Units for Minerals
 ![](/media/6-recyclet1s.png)
 
-### Individual Boss Waves
+### Line Bosses (Individual Boss Waves)
 This is probably the most important part of the game. Clearing these are essential to surviving the individual rounds.
 
 These boss waves appear about every 5 rounds and respawn after a certain amount of time. Killing them earns you either more units or earn you scarabs (selection tokens) that you can spend to get specific units.
+
+Vespene Gas the time remaining for you to kill your line boss before it's gone.
+
 ![](/media/7-kitingminibosses.png)
 
 ### Spending Scarabs (Selection Tokens)
-You'll earn scarabs as you kill individual bosses later in the game.
+Second most important part of the game. You'll earn tokens as you kill your line bosses.
 
 Click on the scarabs to bring up the scarab shop. You can cycle thru pages to spend different tier scarabs on different tier units.
 
-You typically use this to help you find missing units to finish off unit combinations.
+Use this to help complete missing units and finish unit combinations.
+
+- Grey Token = Buy any T2 unit
+- Blue Token = Buy any T3 unit
+- Yellow Token = Buy any T4 unit
+- Green Token = Buy any T5 unit
+
 ![](/media/8-tokenselection.png)
 
 ### Mini Quests
