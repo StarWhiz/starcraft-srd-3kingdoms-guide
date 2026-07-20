@@ -2,9 +2,10 @@
 
 This is the full guide for the Korean 3 Kingdoms EUD Map on Starcraft Broodwar (삼랜디)
 
-If this is your first time playing read the newbie-quick-start instead: 
-
-한국어 가이드를 보시려면 여기를 클릭하세요 (KR Guide): https://urls.starfroz.com/srd-kr
+> [!NOTE]
+> If this is your first time playing read the newbie-quick-start instead: https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/newbie-quick-start
+>
+> 한국어 가이드를 보시려면 여기를 클릭하세요 (KR Guide): https://urls.starfroz.com/srd-kr
 
 I'm `StarFroz` on the US West Server.
 
