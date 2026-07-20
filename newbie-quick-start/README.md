@@ -13,7 +13,7 @@ You can disable the music with the `INSERT` button on your keyboard once the gam
 - It takes 2x same Tier 5 units to make a random Tier 6 unit.
 
 ### Automatic Sort and Combine
-- Click on the psi emitter and press QWE once it will light up the psi emitter.
+- Click on the psi emitter and press QWE one time each it will light up the psi emitter.
 - Buttons: Auto Tier 1 (Q) / Auto Tier 2 (W) / and Auto Tier 3 (E)
 - Other Buttons: Auto-Sell Tier 1s (A)
 - You can't auto combine Tier 4 with this method
