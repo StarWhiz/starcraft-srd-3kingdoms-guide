@@ -75,6 +75,7 @@ If you lose these rounds you will lose the game. Coordinate with your team membe
 Send your strongest tier unit to the arena by selecting it and pressing D.
 ![](/media/10-teamboss.jpg)
 
+# Newbie Guide End
 This concludes the quick start.
 
 .
@@ -85,8 +86,15 @@ This concludes the quick start.
 
 .
 
+.
 
-# Not As Important
+.
+
+.
+
+.
+
+# MISC INFO
 You can stop reading here or read more if you want to be extra helpful. If you want to know more advanced stuff read the full guide https://urls.starfroz.com/srd
 
 The stuff below is more important late game than early game. Focus on learning the early game first.
