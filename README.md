@@ -353,6 +353,11 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
   - You can see this effect at 1:22 in the first video: The 5 second timer starts on the Zergling, which is furthest from the boss, the timer then moves to the Dark Templar which becomes the farthest unit when the Zergling gets closer.
   - To mitigate this, use units with invulnerability (Mythic SCV, Mythic, Archon, T7 Ultralisk) to tank the timer. Have these units move away from the boss while everyone else moves closer. SCV and Archon can only tank 3 times after tanking turns. Another unit like a sacrificial T4 will have to take place while their abilities are on cooldown
   - Alternatively, have a player with weak units stationed in the corner of the map away from the boss fight before the ability activates. Once the bosse's insta death ability is cast the weak unit should be insta killed instead of the stronger t7 and mythic units which are closer to the boss.
+ 
+## RD 110 Boss
+- Instant death ability affects closest unit (Opposite of RD 100 Boss)
+- Clear pylons that warp in
+- See https://youtu.be/cbDh9GvK5iM for full clear game play
 
 # New Map Versions
 The new map versions are typically on https://cafe.naver.com/f-e/cafes/17046257/articles/141229
