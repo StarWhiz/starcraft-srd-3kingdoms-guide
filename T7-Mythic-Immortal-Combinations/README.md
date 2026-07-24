@@ -197,7 +197,7 @@ It's very difficult to build immortals because it requires a specific loot box i
 - 1x T3 Wraith
 - 3x T2 Vulture
 - 2x T1 Drone + 2x T1 Dark Templar
-- Lootbox Item Required: No Data
+- Lootbox Item Required: Dark Templar
 
 ![](/media/immortal-darktemplar.png)
 
@@ -208,7 +208,7 @@ It's very difficult to build immortals because it requires a specific loot box i
 - 2x T4 Dragoon + 2x T4 Queen
 - 3x T2 Hydralisk
 - 2x T1 Marine + 2x T1 Broodling
-- Lootbox Item Required: No Data
+- Lootbox Item Required: Probe
 
 ![](/media/immortal-darkarchon.jpg)
 
