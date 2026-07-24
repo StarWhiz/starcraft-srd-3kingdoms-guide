@@ -353,8 +353,10 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
   - Alternatively, have a player with weak units stationed in the corner of the map away from the boss fight before the ability activates. Once the bosse's insta death ability is cast the weak unit should be insta killed instead of the stronger t7 and mythic units which are closer to the boss.
  
 ## RD 110 Boss
+- Video of Abilities: https://youtu.be/iaBEQWFKQS0
 - Instant death ability affects closest unit (Opposite of RD 100 Boss)
 - Clear pylons that warp in
+- No immortals needed you can clear fine with just mythics
 - See https://youtu.be/cbDh9GvK5iM for full clear game play
 
 # New Map Versions
