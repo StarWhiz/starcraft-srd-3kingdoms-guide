@@ -339,9 +339,7 @@ https://github.com/user-attachments/assets/16fab606-3576-45a3-be20-97b3ab7ed98a
 - This is a link to a video how I play healer on RD 80 and RD 90 Bosses: https://youtu.be/vAeHywVq7A8
 
 ## RD 100 Boss
-- We don't actually win this one. This is our first time encountering round 100 boss as it is an encounter when playing on hard difficulty.
-- Very first Gameplay Video: https://youtu.be/OapL_Y5dclE
-- TKKTKK's Gameplay Video (More Experienced): https://www.youtube.com/watch?v=bo8izD0dUPA
+- Video of Abilities: https://www.youtube.com/watch?v=1YlTegUPxeQ
 - The boss has 2 abilities to look out for.
 - The first ability bubbles you and your teammates who get stuck in it. The bubble has a lot of HP. You can attack your own bubble if you click on it. Teammates also have the ability to attack bubbles on healer. Save mythic abilities to damage the bubbles because the bubbles have 5,000,000 HP auto attacks from a single hero doesn't do enough damage.
   - Once you are free of the bubble you should get outside the red circle around the bubble before it pops, otherwise you will be killed if you stay inside the red circle for too long.
