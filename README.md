@@ -200,7 +200,7 @@ This screenshot explains the **mythic hero bonuses** you can buy for an addition
 # Conclusion
 I hope this helps. At the time of writing I've only played this map 8 times. There is a lot that I don't know. I also don't know any Korean so most of this was either google translated or I used my own brain to figure it out.
 
-Other players that do play this map in `US West` are on the channel called boss hunt which you can join on US West with the command `/join boss hunt` when you are in battle.net chat.
+Other players that do play this map in `US West` are on the channel called `srd` which you can join on US West with the command `/join srd` when you are in battle.net chat.
 
 Good luck!
 
