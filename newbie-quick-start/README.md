@@ -136,5 +136,7 @@ RD 25 - One of each T3 Unit except for T3 Defiler
 RD 40 - One of each T4 Unit  
 RD 55 - T5 Marine, T4 Queen, T3 Defiler, T3 Guardian, T2 Hydralisk
 
+For Individual Mission Flags see the full guide for advice https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main#individual-missions
+
 ![](/media/keikakus-missions.png)
 

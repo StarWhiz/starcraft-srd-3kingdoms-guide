@@ -251,7 +251,7 @@ Send these units into the boss arena either before or during the boss fight to g
 - |특수| 초선 (Diaochan / Choseon) = Medic (Grants +1 Mineral Per Round)
 
 ![](/media/z1-masterchart.jpg)
-## Individual Missions
+## Individual Missions (Flags)
 ### T1
 - 2x of each T1 Unit
 - 3x T1 Dark Templar **검병** + 3x T1 Marine **궁병**+ 3x T1 Drone **창병**
