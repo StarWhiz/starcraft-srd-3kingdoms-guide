@@ -255,15 +255,17 @@ Send these units into the boss arena either before or during the boss fight to g
 ### T1
 - 2x of each T1 Unit
 - 3x T1 Dark Templar **검병** + 3x T1 Marine **궁병**+ 3x T1 Drone **창병**
-- **Tip:** Keep **2x T1 Zerglings 기병** and **2x T1 Dark Templars** after getting the flags above
+
+**Tip:** After finishing these two flags turn on auto T1. If it's already close to RD10 just turn on auto T1 so you can chase the boss with more dps.
 
 ### T2
 - 1x of each T2 Unit
 - 1x T2 Zealot **주태** + 1x T2 Scourge **견희** + 2x T1 Zergling **기병**
 - 1x T2 SCV **위연** + 1x T2 Vulture **마초** + 2x T1 Dark Templar **검병**
 
+**Tip:** These usually complete naturally without thinking about it. You can turn on auto T2 after finishing these.
+
 ### T3
-**Tip:** The T3 Guardian is Dual Purpose
 - 1x of each T3 Unit
 - 1x T3 Guardian **허저** + 1x T2 Vulture **마초** + 2x T1 Zergling **기병**
 	- **Tip:** Keep **2x T1 Zerglings**
@@ -273,8 +275,9 @@ Send these units into the boss arena either before or during the boss fight to g
 	- **Tip:** Keep **1x T2 Hydralisk**
 - 5x T3 Probe **손상향**
 
+**Tip:** The T3 Guardian helps a lot. Aim for the 1x of each T3 Unit and/or 5x Probe because both missions give a T3 Token.
+
 ### T4
-**Tip:** Probe is Multi Purpose
 - 1x of each T4 Unit
 - 1x T4 Dragoon **육손** + 1x T3 Probe **손상향** + 1x T3 Scout **능통** + 1x T2 Zealot **주태**+ 1x T2 Interceptor **소교**
 	- **Tip:** This is a Protoss Combo
@@ -287,7 +290,6 @@ Send these units into the boss arena either before or during the boss fight to g
 Below is a helpful visual of missions. Credits to Keikaku on US West.
 
 ![](/media/keikakus-missions.png)
-
 
 
 ## Random Tip
