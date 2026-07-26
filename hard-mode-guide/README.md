@@ -38,9 +38,9 @@ This is where most players die if they don't have mythic bonuses, so the pausing
         - Rejoin the team boss fight when done.
 
 # RD 40 - RD 55
-Now medic / infested terran  can stay permanently enabled.
+Now medic / infested terran can stay permanently enabled.
 
-Pause your RD55 boss. Turn on minerals around RD44. You can resume the RD55 boss if it's safe for you to do so.
+Pause your RD55 boss. Turn on minerals around RD44. You can turn off minerals after the RD55 boss if it's safe for you to do so.
 
 How to determine if you can unpause RD55 line boss.
 - You have least 2 Tier 5 units with 8-10 upgrades (8 being the bare minimum, 10 being comfortable) + a bunch of T4s. This is the minimum requirement to clear RD55 line boss.
