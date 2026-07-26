@@ -1,5 +1,5 @@
 # Just a Very Basic Hard Mode survival guide
-- It's important to prioritize spending tokens as soon as you get them over aiming for flags. Especailly if you don't have a lot of mythic bonuses yet.
+- It's important to prioritize spending tokens as soon as you get them over aiming for flags. Especially if you don't have a lot of mythic bonuses yet.
 - Notice I said spending tokens you don't necessarily have to fuse T3s to T4s unless you're trying to flash. Having more T3s helps with DPS.
 - Spend tokens with intent to finish flags
 
@@ -8,15 +8,38 @@ If you save up too many tokens you will not have enough DPS to clear your lines.
 ## RD 25 - RD 40
 Don't fuse to T4s too early. Focus on the flag missions especially the 1 of each T3 which gives a T3 token and / or the 5 probe mission which gives another T3 token.
 
-After the RD 25 medic you need to pause the medic. (Usually players with a lot of mythic bonuses don't have to do this but for everyone else you need to. This is where most players die.)
+After the RD 25 medic you need to pause either the medic spawn or the infested terran spawn depending on how much you are struggling.
 
-You will wait for RD35 Infested Terran boss to spawn and clear that boss first. 
+This is where most players die if they don't have mythic bonuses, so the pausing decision here is important.
 
-After the RD35 boss clear your line to at least 30/80 then send in the RD25 Medic Boss.
+- If you are doing well...
+    - Pause medic after round 25.
+    - When infested spawns kill it for T3 token.
+    - Spend the T3 token
+    - Wait until the line drops to around 30/80
+    - Spawn the medic and kill it
+    - Spend the T3 token
+    - Your line should be recovered by then.
 
-Now medic can stay permanently enabled.
+- If you are not doing well...
+    - Pause infested after round 25.
+    - When medic spawns kill it for T3 token.
+    - Spend the T3 token
+    - Gauge whether or not it is safe for you to spawn infested terran i.e. line is consistently 10/80 or lower
+    - Spawn the infested terran and kill it
+    - Spend the T3 token
+    - Your line should be okay by then.
+    - If your line is still in danger...
+        - Pause RD40 DT spawn
+        - Help with team T4 bonus
+        - Let your team do the boss fight
+        - Clear your own line
+        - Spawn your RD40 DT
+        - Rejoin the team boss fight when done.
 
 # RD 40 - RD 55
+Now medic / infested terran  can stay permanently enabled.
+
 Pause your RD55 boss. Turn on minerals around RD44. You can resume the RD55 boss if it's safe for you to do so.
 
 How to determine if you can unpause RD55 line boss.
