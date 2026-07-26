@@ -1,9 +1,12 @@
 # Just a Very Basic Hard Mode survival guide
-It's important to prioritize spending tokens as soon as you get them over aiming for flags.
-
-You should still be trying to aim for flags but spending tokens and upgrading units take precdence unless you are certain the flag will net you units that will help you progress.
+- It's important to prioritize spending tokens as soon as you get them over aiming for flags. Especailly if you don't have a lot of mythic bonuses yet.
+- Notice I said spending tokens you don't necessarily have to fuse T3s to T4s unless you're trying to flash. Having more T3s helps with DPS.
+- Spend tokens with intent to finish flags
 
 If you save up too many tokens you will not have enough DPS to clear your lines.
+
+## RD 25 - RD 40
+Don't fuse to T4s too early. Focus on the flag missions especially the 1 of each T3 which gives a T3 token and / or the 5 probe mission which gives another T3 token.
 
 After the RD 25 medic you need to pause the medic. (Usually players with a lot of mythic bonuses don't have to do this but for everyone else you need to. This is where most players die.)
 
@@ -13,11 +16,14 @@ After the RD35 boss clear your line to at least 30/80 then send in the RD25 Medi
 
 Now medic can stay permanently enabled.
 
-Pause your RD55 boss. Gather at least 2 Tier 5 units with 8-10 upgrades (8 being the bare minimum) + a bunch of T4s. Don't start this boss until you have enough firepower to clear her.
+# RD 40 - RD 55
+Pause your RD55 boss. Turn on minerals around RD44. You can resume the RD55 boss if it's safe for you to do so.
 
-If you have a T6 Unit before the RD55 boss you don't even need to pause. If you don't you might need to in order to build enough enough DPS to finish her in time.
+How to determine if you can unpause RD55 line boss.
+- You have least 2 Tier 5 units with 8-10 upgrades (8 being the bare minimum, 10 being comfortable) + a bunch of T4s. This is the minimum requirement to clear RD55 line boss.
+- If you have a T6 Unit before the RD55 line boss spawns then you only need 4 or more T5-T6 upgrades
 
-Sometimes you're lucky and you can start the RD55 boss early because you have enough DPS. Other times you are not so you need to wait during the boss fight or after the boss fight to fuse units for firepower.
+If you meet any of the requirements above you can unpause Kerrigan and finish RD55 line boss with enough time remaining.
 
 # RD 100 Boss
 See https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide#rd-100-boss for advice on how to beat him
