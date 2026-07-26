@@ -1,6 +1,7 @@
 This is the abridged version of the main guide to minimize reading and help you survive your first game. The screenshots do most of the talking.
 
-The short URL for the main and full guide in game is: https://urls.starfroz.com/srd
+The short URL to share this guide in game is: https://urls.starfroz.com/srd
+The full guide with lots if reading is at: https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main
 
 # Music Disabling
 You can disable the music with the `INSERT` button on your keyboard once the game starts.
