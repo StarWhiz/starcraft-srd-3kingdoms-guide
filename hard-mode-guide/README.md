@@ -8,7 +8,7 @@
 If you save up too many tokens you will not have enough DPS to clear your lines.
 
 # RD 10 - RD 25
-- 10 T3-T4 Upgrades you will barely finish medic. 11 means you can
+- 10 T3-T4 Upgrades you will barely finish medic. 11 means you can. If you don't have bonuses just turn on minerals between rd 19-25
 - If you are unable to flash fuse T4 by the end of RD25 don't fuse.
 - Instead leave T3 units unfused so you can finish the flags that make up for the lack of flash T3 token (1x each T3 or 5x Probe)
 
