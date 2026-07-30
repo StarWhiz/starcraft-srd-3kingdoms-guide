@@ -7,6 +7,9 @@
 
 If you save up too many tokens you will not have enough DPS to clear your lines.
 
+# RD 10 Boss
+Stall till 0:01-0:05 because the speed clear bonus isn't worth it, you'll get more tokens from line bosses this way.
+
 # RD 10 - RD 25
 - 10 T3-T4 Upgrades you will barely finish medic. 11 means you can. If you don't have bonuses just turn on minerals between rd 19-25
 - If you are unable to flash fuse T4 by the end of RD25 don't fuse.
