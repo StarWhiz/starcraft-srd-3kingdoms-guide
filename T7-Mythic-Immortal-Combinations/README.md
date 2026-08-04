@@ -291,3 +291,6 @@ I'll probably be going for the No.7 Upgrade, No.2 Upgrade, and No.4 Upgrade at l
 Credits to Keikaku
 
 ![](/media/keikakus-herosummary.png)
+
+# Item Probability Shop
+![](/media/item-probabilities.png)
