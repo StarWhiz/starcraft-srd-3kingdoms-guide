@@ -295,19 +295,6 @@ Below is a helpful visual of missions. Credits to Keikaku on US West.
 ## Random Tip
 If you're about to die late game, turn off your line Bosses you might survive. I died at round 89/90 one time because I didn't consider that option when I had the Mythic Medic which seems to do less damage than Kerrigan
 
-## RD 55 Boss Cheesing Guide
-- The idea here is to separate the bosses.
-- The Marine is the one that always spawns broodlings. He stops spawning broodlings when there are a lot of broodlings on the field.
-- The strat is to do your RD55 Team of 5 Bonus early by placing your units before the boss fight in the top left corner.
-	- All players teleport back to base after bonus is distributed.
-    - We do this so we can spend more time killing the boss rather than coordinating the team bonus during the fight.
-- Have one player lure all units first to the top right corner (you can do any corner but top right is best)
-	- The one player teleports back to base
-- The marine boss will automatically come back to the center of the map once everyone is back to town
-- All players teleport in, to kill the marine.  
-
-Credits to kentaco for teaching me this tech.
-
 ## RD 80/90 Zergling Boss Pattern
 - You need at least a Kerrigan healer to win this one.
 - These two bosses are encountered when playing on normal difficulty as easy difficulty only goes up to RD70
