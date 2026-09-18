@@ -30,3 +30,16 @@ Below is a WIP Rough draft.
 # Security Groups
 Create these first. Then attach them to the Launch EC2 instance page.
 ![](securitygroups.png)
+
+# To Enhance performance further
+- Install Tailscale on both machines
+    - Register both machines to tailscape
+    - Use AWS KR EC2 tailscale IP to connect moonlight from Host PC
+    - Tailscale improves delay significantly (USA to KR improved a lot for me)
+- Turn off Windows Network Throttling: 
+    - Open Registry Editor on the VM (regedit), 
+    - navigate to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile
+        - set NetworkThrottlingIndex to ffffffff (hexadecimal)
+        - set SystemResponsiveness to 0. 
+        - This prevents Windows from throttling network packet pacing during high-throughput video streaming.
+
