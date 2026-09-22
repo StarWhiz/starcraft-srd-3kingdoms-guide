@@ -10,12 +10,13 @@ Its whole purpose is to show, unit by unit, **what you combine to build each end
 
 ## Structure
 
-Three top-level (`#`) unit sections plus two `##` bonus sections at the end:
+Three top-level (`#`) unit sections, then two `#`-level chart sections and two `##` bonus sections at the end:
 
 1. **`# Tier 7 Units`** — the 10 T7 units (Civilian, Dark Templar, Dark Archon, Ghost, Zealot, Tassadar, Dragoon, Hydralisk, Ultralisk, Zerg Kerrigan). Headings are **not** numbered.
 2. **`# Mythics`** — 7 Mythic units, headings **numbered `## 1.`–`## 7.`** (Marine, SCV, Sarah Kerrigan, Blue Archon, Zergling, Defiler, Medic). Some credited to "Mister.K".
-3. **`# Immortals`** — 8 Immortal units, headings **numbered `## 1.`–`## 8.`** (Civilian, Lighter Dark Templar, Dark Archon, Zealot, Templar, Hydralisk, Darker Dark Templar, Zerg Kerrigan/Zerrigan). Some are still `No Data` placeholders. Credited to Scroto.Baggins and TKKTKK.
-4. **`## Mythic Bonuses`** and **`## Immortal Bonuses`** — flat `No.X - <unit>: <effect>` lists (NOT per-unit `##` entries, no images). The `No.X` numbers **must line up** with the numbered Mythic/Immortal headings above (e.g. Mythic Bonus No.7 = Medic = Mythic #7; Immortal Bonus No.3 = Dark Archon = Immortal #3).
+3. **`# Immortals`** — 8 Immortal units, headings **numbered `## 1.`–`## 8.`** (Civilian, Lighter Dark Templar, Dark Archon, Zealot, Templar, Hydralisk, Darker Dark Templar, Zerg Kerrigan/Zerrigan). Credited to Scroto.Baggins and TKKTKK. Every Immortal recipe ends with a `- Lootbox Item Required: <unit>` line (KR: `- 필요한 루트박스 아이템: <유닛>`) — that line is part of the recipe, don't drop it when syncing. No.7 Darker Dark Templar has a recipe but still no screenshot.
+4. **`# Keikaku's Hero Summary Chart`** (`/media/keikakus-herosummary.png`) and **`# Item Probability Shop`** (`/media/item-probabilities.png`) close out the page — two `#`-level image-only sections. KR: `# Keikaku의 영웅 요약 차트` / `# 아이템 확률 상점`.
+5. **`## Mythic Bonuses`** and **`## Immortal Bonuses`** — flat `No.X - <unit>: <effect>` lists (NOT per-unit `##` entries, no images). The `No.X` numbers **must line up** with the numbered Mythic/Immortal headings above (e.g. Mythic Bonus No.7 = Medic = Mythic #7; Immortal Bonus No.3 = Dark Archon = Immortal #3).
 
 The numbering on Mythic/Immortal headings is load-bearing: the credits block and both Bonuses sections reference units by `No.X`, so heading numbers and those references must stay in sync.
 
@@ -92,6 +93,6 @@ Conventions used in the KR version:
 ## Status
 
 - Page is actively being filled in; a few entries are still `No Data` (Immortal Dark Archon — pending BETA 22 unlock; Immortal Darker Dark Templar).
-- Both English and Korean versions are currently **in sync**. All ~22 image links resolve, tiers are consistent with the unit table, numbering/credits/bonuses line up, and spelling/naming is clean.
+- Both English and Korean versions are currently **in sync** (re-synced 2026-09-22: lootbox lines, Immortals intro, No.7 recipe, and the two trailing chart sections were added to the KR page). All ~22 image links resolve, tiers are consistent with the unit table, numbering/credits/bonuses line up, and spelling/naming is clean.
 - **Confirmed non-bug:** Mythic Medic's active ability is on the **(E)** key (all other units use Q) — intentional, verified by the author.
 - Uncommitted: this page, the KR version, their `media/` images, and other repo changes were not yet committed at last check.

@@ -16,6 +16,27 @@ This document captures the full context of the localization work on the **3 King
 - `media/` — screenshots referenced by both READMEs via root-relative paths `![](/media/filename)`. Paths must be preserved exactly in both files.
 - **`T7-Mythic-Immortal-Combinations/README.md` + `README-KR.md`** — a separate sub-page (unit build recipes) that ALSO now has an English+Korean pair kept in sync. It has its own dedicated context doc: `ai-context/T7-Mythic-Immortal-Combinations-context.md`. Read that before touching it.
 
+### Other sub-guides (added after the original localization work)
+
+The repo has grown several sub-guide folders beyond the main guide + T7 page. Their sync status as of 2026-09-22:
+
+| Folder | EN | KR | Notes |
+|---|---|---|---|
+| `3man-normal-guide/` | yes | yes | in sync |
+| `hard-mode-guide/` | yes | yes | KR created 2026-09-22 |
+| `newbie-quick-start/` | yes | **no** | English only; main README links to it |
+| `aws-for-KR-servers/` | yes | **no** | English only (AWS setup for KR servers) |
+| `geforcenow-for-KR-servers/` | yes | **no** | English only; linked from `# End` |
+
+Sub-guide KR files follow the same header convention:
+```markdown
+영어 원문: [README.md](README.md)
+
+> [!NOTE]  
+> 이 가이드는 AI를 통해 원문 영어 가이드에서 번역되었습니다.
+```
+Cross-guide links that point at a main-README anchor should point at the **KR** anchor from a KR page (e.g. `README-KR.md#rd-100-보스`), since GitHub anchors keep the Korean heading text.
+
 ## Recurring task pattern (IMPORTANT for future sessions)
 
 The steady-state work here is: **the user edits an English README, then says "I added more stuff, update the KR version."** The routine:
@@ -89,13 +110,40 @@ The user also periodically asks to "check the main guide/sub-page for inconsiste
 
 Difficulty caps (now stated in the guide, handy context for the boss-section naming): **Easy → RD 70**, **Normal → RD 90** (RD 80/90 & RD 90/90 bosses), **Hard → RD 100** (RD 100 boss).
 
+## Sync round — 2026-09-22
+
+The user asked to bring every Korean file up to date with English and to create the hard-mode KR guide. What changed:
+
+**`README-KR.md`**
+- Added the newbie-quick-start pointer to the top NOTE block.
+- Line Bosses: added the missing "Vespene Gas = time remaining" line.
+- Scarabs: restored the "second most important part" framing and added the missing token-color list (회색/파란색/노란색/초록색 토큰 = T2/T3/T4/T5).
+- Individual Missions: replaced the stale T1/T3/T4 tips with the current English ones (T1 → turn on auto T1; T2 → completes naturally, turn on auto T2; T3 → Guardian helps, both missions give a T3 token), dropped the KR-only "프로브는 다목적입니다" T4 tip that English no longer has, and added the Keikaku missions chart (`/media/keikakus-missions.png`) under T5.
+- **Deleted `## RD 55 보스 치즈(꼼수) 공략`** to match commit `1e6d1f5` ("Remove RD 55 Boss Cheesing Guide").
+- Rewrote `## RD 100 보스` to the current English text (new video link, 5,000,000 HP bubbles, invulnerability tanking rotation, SCV/Archon 3-tank limit). The old KR text still said the author had never beaten it.
+- Added `## RD 110 보스`.
+- Conclusion: channel fixed from `boss hunt` / `/join boss hunt` → `srd` / `/join srd`.
+- Unit table: `T2 히드라` → `T2 히드라리스크`.
+
+**`T7-Mythic-Immortal-Combinations/README-KR.md`**
+- Added the `# 불멸 (Immortal) 유닛` intro sentence about lootbox items.
+- Added `- 필요한 루트박스 아이템: X` to all 8 Immortals (브루들링 / 다크 템플러 / 프로브 / 질럿 / 파이어뱃 / 저글링 / 퓨마(벵갈라스) / 메딕).
+- Immortal No.7 Darker Dark Templar: `데이터 없음` → full recipe (English now has one).
+- Added `# Keikaku의 영웅 요약 차트` and `# 아이템 확률 상점`.
+
+**`hard-mode-guide/README-KR.md`** — created from the English guide.
+
+**`3man-normal-guide/README-KR.md`** — checked, already in sync, untouched.
+
+**Known open issue (flagged to the user, NOT auto-fixed):** both `3man-normal-guide/README.md` and its KR version link to `starcraft-srd-3kingdoms-guide#rd-55-boss-cheesing-guide`, which is now a dead anchor since that section was removed from the main English README. The fix belongs in the English source first.
+
 ## Status
 
 - Original localization (full translation, terminology check, OCR captions) is **complete**.
 - The main `README-KR.md` has since been kept in sync through several rounds of English edits (RD 55 cheese, RD 80/90 + RD 100 boss patterns, gameplay demo links, Mythic-list rework, New Map Versions reorder).
 - The `T7-Mythic-Immortal-Combinations` English+Korean pair is also complete and in sync.
 - **Both main guides are date-free now.** The "Date Authored / Date Last Modified" lines were removed from the `# End` section of `README.md` at the user's request, and removed from `README-KR.md` to match. Do NOT re-add them.
-- **Nothing has been committed yet** across any of this work. The user has been offered a commit multiple times and keeps deferring — offer, don't assume.
+- **The earlier work HAS since been committed** (the repo is on `main` with commits through `b726e9f`). The 2026-09-22 sync above was left uncommitted at the end of that session — offer a commit, don't assume.
 - **`ai-context/` is now tracked (no longer gitignored).** There used to be a `.gitignore` whose only entry was `ai-context/`; the user decided these handoff docs are safe to commit, so the `.gitignore` was deleted and this folder should be included in the eventual commit.
 
 ## Possible next steps
