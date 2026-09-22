@@ -48,7 +48,7 @@ This is where most players die if they don't have mythic bonuses, so the pausing
         - Rejoin the team boss fight when done.
 
 # RD 40 Team Boss (Zealot)
-Stall the killing of the team boss until 0:01-0:05 time remaining. The reason for this is so you can have the RD40 line boss spawn before the RD55 boss around RD 52-53
+Stall the killing of the team boss until 0:38 time remaining. The reason for this is so you can have the RD40 line boss spawn before the RD55 boss around RD 54.
 
 # RD 40 - RD 55
 Now medic / infested terran can stay permanently enabled.
