@@ -86,7 +86,7 @@ Many screenshots have **red English annotation text** overlaid on them. Task: OC
 | mineral(s) | 미네랄 | SC1 term |
 | mineral stack | 미네랄 더미 | |
 | scarab (selection token) | 스캐럽 (선택 토큰) | SC1 community term |
-| Tier 1–7 | 1티어 ~ 7티어 (also 1성~7성 / 6성 etc. in chart) | |
+| Tier 1–7 | 1티어 - 7티어 (also 1성/6성 etc. in chart) | see tilde gotcha below |
 | auto combine | 자동 조합 | |
 | manual combine | 수동 조합 | |
 | advanced combine | 고급 조합 | |
@@ -99,6 +99,31 @@ Many screenshots have **red English annotation text** overlaid on them. Task: OC
 | Mythics / Immortals / T7 (chart labels) | 신화 / 불멸 / 7성 | |
 
 Hero names in the unit table keep both the Korean name and a romanization, e.g. `장비 (Zhang Fei) = T6 SCV`.
+
+## GOTCHA: never use `~` for ranges in Korean text
+
+Korean writing normally uses `~` for ranges (`T3~T4`, `8~10개`, `RD 19~25`), but **GitHub Flavored Markdown treats a single `~` as a strikethrough delimiter.** Two tildes anywhere in the same paragraph or list item pair up and everything between them renders crossed out. This shipped as a real bug in `hard-mode-guide/README-KR.md` and Korean players in-game noticed the crossed-out text before we did.
+
+**Rule: use `-` for every range in the Korean files** (`T3-T4`, `8-10개`, `RD 19-25`). This also matches the English source, which already uses hyphens.
+
+Check before committing any KR file:
+```bash
+for f in $(find . -name '*.md' -not -path './.git/*'); do awk -v F="$f" '{n=gsub(/~/,"~"); if(n>=2) printf "%s:%d: %s
+", F, NR, $0}' "$f"; done
+```
+
+## GOTCHA: loan words from English confuse actual Korean players
+
+Real in-game feedback (2026-09-22) from Korean players reading `hard-mode-guide/README-KR.md`: they could not parse **스폰** ("스폰이 뭔뜻이오"), and were unsure what **토큰** referred to. Another player translated for them: **스폰 = 소환**, **토큰 = 선택(권)** (the scarab that lets you pick a unit of that star tier). One summed the guide up as "한국말이긴한데 이상하게써있어서 이해하기어렵소" — *it's Korean, but it's written strangely so it's hard to understand.*
+
+Conventions adopted in response, to reuse in every KR guide:
+- **소환** for "spawn" (not 스폰). **소환을 끄다 / 켜다** for pausing and unpausing a line boss (not 정지).
+- **선택권** for the token/scarab, defined on first use. Main-guide glossary term **스캐럽 (선택 토큰)** stays, but sub-guides should gloss it as 선택권.
+- Make implied subjects explicit. English "pause the medic" means *the medic **line boss** spawn* — write **메딕 라인 보스 소환을 꺼두세요**, not just 메딕을 정지시키세요.
+- "line is 30/80" means enemies remaining on your lane — write **라인에 남은 적이 30/80**.
+- Korean players talk in **성** (2성, 3성, 7성), not 티어. Prefer 성급 in sub-guides; the main guide's unit table already uses `|3성|` notation.
+- `hard-mode-guide/README-KR.md` now opens with an `> [!IMPORTANT]` **용어 안내** glossary block (라인 보스 / 소환 / 소환 끄기·켜기 / 선택권 / 깃발 / 딜 / 합치기 / 성급). Copy that pattern into any sub-guide that leans on loan words.
+- **플래시 (flash)**: **confirmed by the author** — it is the bonus for combining to a given tier *first*, ahead of other players. Gloss it as **"남들보다 먼저 조합해서 받는 보너스"** on first use in a guide, then keep the loan word 플래시. Already applied in `hard-mode-guide/README-KR.md` (glossary block) and `3man-normal-guide/README-KR.md`.
 
 ## Consistency reviews (both guides)
 
