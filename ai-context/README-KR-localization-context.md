@@ -97,6 +97,62 @@ Many screenshots have **red English annotation text** overlaid on them. Task: OC
 | Team Mate | 팀원 | |
 | Boss | 보스 | |
 | Mythics / Immortals / T7 (chart labels) | 신화 / 불멸 / 7성 | |
+| Sarah Kerrigan | 사라 케리건 | verified |
+| Medic / Combat Medic | 메딕 | verified; SC2 완역 is 의무관 — do NOT use |
+| Infested Terran | 인페스티드 테란 (자폭맨) | verified; SC2 완역 is 감염된 테란. 자폭맨 is the everyday BW community name and is worth glossing on first use |
+| Dark Templar / DT | 다크 템플러 (다템) | verified; SC2 완역 is 암흑 기사 — do NOT use. Never leave a bare English "DT" in KR text |
+
+### Verified BW 음역 vs SC2 완역 (verified 2026-09-23)
+
+**The rule:** StarCraft: Remastered ships **two** Korean name sets — 음역 (transliteration of the English) and 완역/의역 (fully translated). The Korean BW community overwhelmingly uses 음역, and **this project uses 음역 everywhere.** SC2's official Korean names are the 완역 forms and are wrong for this audience.
+
+**Why this is worth writing down:** Korean reference pages are inconsistent, so "checking a wiki" can actively mislead you. On ko.wikibooks, the **Zerg and Terran** unit pages list only 완역 names, while the **Protoss** page lists 음역 names. Copying names off whichever page you happened to open will produce a mixed, wrong glossary.
+
+Units that appear in these guides, with the 완역 form to avoid:
+
+| Unit | Use this (음역) | NOT this (완역 / SC2) |
+|---|---|---|
+| Marine | 마린 | 해병 |
+| SCV | SCV | 건설로봇 |
+| Firebat | 파이어뱃 | 화염방사병 |
+| Medic / Combat Medic | 메딕 | 의무관 |
+| Ghost | 고스트 | 유령 |
+| Vulture | 벌처 | 시체매 |
+| Wraith | 레이스 | 망령 |
+| Dropship | 드랍십 | 수송선 |
+| Drone | 드론 | 일벌레 |
+| Queen | 퀸 | 여왕 |
+| Defiler | 디파일러 | 파멸충 |
+| Scourge | 스커지 | 갈귀 |
+| Guardian | 가디언 | 수호군주 |
+| Broodling | 브루들링 | 공생충 |
+| Infested Terran | 인페스티드 테란 | 감염된 테란 |
+| Dark Templar | 다크 템플러 | 암흑 기사 |
+| Zealot | 질럿 | 광전사 |
+| Dragoon | 드라군 | 용기병 |
+| Probe | 프로브 | 탐사정 |
+| Interceptor | 인터셉터 | 요격기 |
+| Corsair | 커세어 | 해적선 |
+
+Same in both sets (no trap): 저글링, 히드라리스크, 울트라리스크, 태사다르, 케리건, 우르사돈.
+
+All of these were already correct in the guides. The table exists so a future session does **not** "fix" them toward SC2 wording.
+
+**Community nicknames worth glossing** (the guides' readers use these in chat):
+- **Infested Terran** → **자폭맨** is what players actually say; the formal name is considered awkward ("이름이 어렵고 보기도 쉽지 않아서 별명인 자폭맨으로 통용된다"). Glossed on first use in the hard-mode guide.
+- **Dark Templar** → 다크 / **다템** / 닥템. **Never leave a bare English "DT" in Korean prose** — that was a real miss, fixed 2026-09-23 in `hard-mode-guide/README-KR.md` and the main guide heading (now `## RD 90/90 다크 템플러(DT) 보스 패턴`).
+
+**Two open spelling judgment calls** (left as-is, author's call — do not change unilaterally):
+- **Archon**: guides use **아콘** (블루 아콘, 다크 아콘); ko.wikibooks uses **아칸**. Both circulate in the BW community.
+- **Scout**: guides use **스카웃**; ko.wikibooks uses **스카우트**.
+
+Sources checked:
+- https://ko.wikibooks.org/wiki/스타크래프트/유닛과_건물_목록/저그 (완역 Zerg names)
+- https://ko.wikibooks.org/wiki/스타크래프트/유닛과_건물_목록/테란 (완역 Terran names)
+- https://ko.wikibooks.org/wiki/스타크래프트/유닛과_건물_목록/프로토스 (음역 Protoss names)
+- https://namu.wiki/w/스타크래프트/용어 (community nicknames: 자폭맨, 다템)
+- https://namu.wiki/w/암흑%20기사(스타크래프트%20시리즈) (Dark Templar 음역 vs 완역)
+- https://ko.wikipedia.org/wiki/사라_케리건 (Sarah Kerrigan = 사라 케리건)
 
 Hero names in the unit table keep both the Korean name and a romanization, e.g. `장비 (Zhang Fei) = T6 SCV`.
 

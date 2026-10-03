@@ -15,6 +15,19 @@ Since Starcraft is P2P the Koreans won't experience lag from your KR virtual mac
 
 Below is a WIP Rough draft.
 
+# Request your GPU Quota Increase First
+Do this before anything else. Submitting it is free and takes about a minute, but AWS approval takes the longest of any step in this guide, so get it in the queue while you work on the rest.
+
+A new AWS account has a **Running On-Demand G and VT instances** quota of **0**, and a `g4dn.xlarge` needs 4 vCPUs. Until this is raised your instance launch will just fail.
+
+- Make sure you're in the **Seoul** region first. The region dropdown in the top-right of the AWS Console should read `Asia Pacific (Seoul) / ap-northeast-2`
+- Search for **Service Quotas** in the top AWS search bar and open it
+- Click **AWS services** in the left menu, search for **Amazon Elastic Compute Cloud (Amazon EC2)**, and click it
+- In the search box under EC2 quotas, search for: `Running On-Demand G and VT instances`
+- Click that quota, then click the orange **Request increase at account-level** button
+- Change the quota value from `0` to `4` (or `8` if you want extra buffer)
+- Click **Request**
+
 # Things to Do
 - Create security groups for Starcraft and Moonlight Streaming Ports
 - Make sure you're on Seoul Region in AWS
