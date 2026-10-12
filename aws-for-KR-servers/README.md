@@ -21,9 +21,10 @@ Since Starcraft is P2P the Koreans won't experience lag from your KR virtual mac
 
 # How much does it cost?
 - Storage costs about $4/mo at 50GB. This is the minimum amount you pay when the machine is off
-- The actual machine when you turn it on, g4dn.xlarge, is charged per hour only while it's running. In Seoul with the Windows license it's roughly $0.65/hour. Check the [EC2 On-Demand pricing page](https://aws.amazon.com/ec2/pricing/on-demand/) with the region set to `Asia Pacific (Seoul)` and the OS set to `Windows` for the current price.
+- The actual machine when you turn it on, g4dn.xlarge, is charged per hour only while it's running. In Seoul with the Windows license it's roughly $0.80/hour. Check the [EC2 On-Demand pricing page](https://aws.amazon.com/ec2/pricing/on-demand/) with the region set to `Asia Pacific (Seoul)` and the OS set to `Windows` for the current price.
 - Streaming video out of AWS counts as data transfer. The first 100GB per month is free, after that it's about $0.12/GB. Keeping the Moonlight bitrate around 10 Mbps (about 4.5GB per hour) is plenty for Starcraft and keeps this cheap.
 - Unlike the easier [Nvidia Geforce Now method](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/geforcenow-for-KR-servers). The servers are actually in Seoul not Tokyo
+- Another advantage is being able to host games.
 - And you can port forward to host games
 
 > [!TIP]
@@ -58,8 +59,8 @@ The security group is the firewall that decides which ports on your EC2 can be r
 | Type | Protocol | Port range | Source | Description |
 |---|---|---|---|---|
 | RDP | TCP | 3389 | My IP | Your Home |
-| Custom TCP | TCP | 6112 | Anywhere-IPv4 (0.0.0.0/0) | Starcraft P2P Port |
-| Custom UDP | UDP | 6112 | Anywhere-IPv4 (0.0.0.0/0) | Starcraft P2P Port |
+| Custom TCP | TCP | 6112 - 6119 | Anywhere-IPv4 (0.0.0.0/0) | Starcraft P2P Port |
+| Custom UDP | UDP | 6112 - 6119 | Anywhere-IPv4 (0.0.0.0/0) | Starcraft P2P Port |
 | All ICMP - IPv4 | ICMP | All | Anywhere-IPv4 (0.0.0.0/0) | Allow ICMP |
 | Custom TCP | TCP | 47984 | Anywhere-IPv4 (0.0.0.0/0) | Moonlight1 |
 | Custom TCP | TCP | 47989 | Anywhere-IPv4 (0.0.0.0/0) | Moonlight2 |
@@ -77,6 +78,7 @@ When you're done it should look like this:
 
 > [!NOTE]
 > - Choosing **My IP** for RDP fills in your home IP with `/32` at the end. Only your home can Remote Desktop into the machine. If your home IP ever changes, come back here and edit that rule.
+> - Starcraft uses port 6112 by default. Blizzard recommends opening 6112 - 6119 so the game has fallback ports if 6112 is busy.
 > - Port 47990 is the Vibeshine web admin page. If you want to be extra safe, set its Source to **My IP** too. Once you're on Tailscale you don't need it open to the internet at all.
 
 # Step 3. Create an IAM Role for the NVIDIA Driver Download
@@ -205,7 +207,7 @@ Vibeshine is an AI enhanced version of Sunshine, the Moonlight server. It handle
 ### Install Battle.net + Starcraft
 - Download Battle.net from https://download.battle.net and install it
 - Log in and install StarCraft: Remastered
-- The first time you launch Starcraft, Windows Firewall will pop up. Click **Allow access** so other players can connect to you on port 6112.
+- The first time you launch Starcraft, Windows Firewall will pop up. Click **Allow access** so other players can connect to you on ports 6112 - 6119.
 
 ### Install Tailscale
 Tailscale makes a private network between your main computer and the EC2. It gives the EC2 an IP that never changes, and it improves delay a lot (USA to KR improved a lot for me).
