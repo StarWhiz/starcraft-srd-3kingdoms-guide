@@ -1,10 +1,10 @@
 This is for advanced tech savvy people or people who are comfortable using AI to help them set this all up.
 
-This is the way I've been playing on the KR servers without having to pay for GeForce Now.
+This is the way I've been playing on the KR servers without having to pay for [GeForce Now](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/geforcenow-for-KR-servers). GeForce Now is much easier to set up though.
 
 Anyways the point is this set up creates a KR computer in the Seoul Region. You will use a software combination called Moonlight and Sunshine (Vibeshine) to stream video from that machine to your machine. It will be like you're remote controlling the machine in KR.
 
-Since Starcraft is P2P the Koreans won't experience lag from your KR virtual machine.
+Since Starcraft is P2P the Koreans won't experience lag from your KR virtual machine even on Turn Rate 24.
 
 # Table of Contents
 - [How much does it cost?](#how-much-does-it-cost)
@@ -21,9 +21,9 @@ Since Starcraft is P2P the Koreans won't experience lag from your KR virtual mac
 
 # How much does it cost?
 - Storage costs about $4/mo at 50GB. This is the minimum amount you pay when the machine is off
-- The actual machine when you turn it on, g4dn.xlarge, is charged per hour only while it's running. In Seoul with the Windows license it's roughly $0.80/hour. Check the [EC2 On-Demand pricing page](https://aws.amazon.com/ec2/pricing/on-demand/) with the region set to `Asia Pacific (Seoul)` and the OS set to `Windows` for the current price.
+- The actual machine when you turn it on, g4dn.xlarge, is charged per hour only while it's running. In Seoul with the Windows license it's roughly $0.65/hour. Check the [EC2 On-Demand pricing page](https://aws.amazon.com/ec2/pricing/on-demand/) with the region set to `Asia Pacific (Seoul)` and the OS set to `Windows` for the current price.
 - Streaming video out of AWS counts as data transfer. The first 100GB per month is free, after that it's about $0.12/GB. Keeping the Moonlight bitrate around 10 Mbps (about 4.5GB per hour) is plenty for Starcraft and keeps this cheap.
-- The servers are actually in Seoul not Tokyo
+- Unlike the easier [Nvidia Geforce Now method](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/geforcenow-for-KR-servers). The servers are actually in Seoul not Tokyo
 - And you can port forward to host games
 
 > [!TIP]
