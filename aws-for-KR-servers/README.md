@@ -20,6 +20,7 @@ Since Starcraft is P2P the Koreans won't experience lag from your KR virtual mac
 - [Troubleshooting](#troubleshooting)
 
 # How much does it cost?
+- As a new user you'll get some AWS credits so it will be some what free for about half a year or more ish.
 - Storage costs about $4/mo at 50GB. This is the minimum amount you pay when the machine is off
 - The actual machine when you turn it on, g4dn.xlarge, is charged per hour only while it's running. In Seoul with the Windows license it's roughly $0.80/hour. Check the [EC2 On-Demand pricing page](https://aws.amazon.com/ec2/pricing/on-demand/) with the region set to `Asia Pacific (Seoul)` and the OS set to `Windows` for the current price.
 - Streaming video out of AWS counts as data transfer. The first 100GB per month is free, after that it's about $0.12/GB. Keeping the Moonlight bitrate around 10 Mbps (about 4.5GB per hour) is plenty for Starcraft and keeps this cheap.
