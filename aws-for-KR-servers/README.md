@@ -8,6 +8,7 @@ Since Starcraft is P2P the Koreans won't experience lag from your KR virtual mac
 
 # Table of Contents
 - [How much does it cost?](#how-much-does-it-cost)
+- [Step 0. Create your AWS Account (use the advanced sign up)](#step-0-create-your-aws-account-use-the-advanced-sign-up)
 - [Step 1. Request your GPU Quota Increase First](#step-1-request-your-gpu-quota-increase-first)
 - [Step 2. Create the Security Group](#step-2-create-the-security-group)
 - [Step 3. Create an IAM Role for the NVIDIA Driver Download](#step-3-create-an-iam-role-for-the-nvidia-driver-download)
@@ -30,6 +31,33 @@ Since Starcraft is P2P the Koreans won't experience lag from your KR virtual mac
 
 > [!TIP]
 > Set up an AWS Budget alert so you get an email if you forget to turn the machine off. Search **Budgets** in the AWS Console > **Create budget** > **Use a template** > **Monthly cost budget** and enter something like `$20`.
+
+# Step 0. Create your AWS Account (use the advanced sign up)
+AWS has two different ways to sign up, and **this guide only works with the advanced one.**
+
+- [Sign up for AWS (advanced)](https://docs.aws.amazon.com/accounts/latest/reference/getting-started.html) **<- Use this one.** You sign up as a **root user** with your own email address and get the normal AWS Console where you can pick any region, including Seoul.
+- [Sign up for AWS (new)](https://docs.aws.amazon.com/accounts/latest/reference/sign-in-new.html) **<- Don't use this one.** It signs you in with Google, GitHub, Apple, or Amazon and puts everything in "projects". AWS picks the region for your project and you can't switch to Seoul, and the UI is completely different from this guide.
+
+### How to sign up the advanced way
+- Open this exact link: https://signin.aws.amazon.com/signup?request_type=register
+    - Don't click **Sign in with Google / GitHub / Apple / Amazon**. That's the new sign up.
+- Enter your email address (this becomes your **root user email**) and an AWS account name like `starcraft-kr`, then click **Verify email address**
+- Enter the verification code from your email and click **Verify**
+- Make a strong root user password and click **Continue**
+- Choose your account plan. Pick **Paid plan** (see the note below)
+- Enter your contact info and accept the AWS Customer Agreement
+- Enter a credit/debit card. You can't finish sign up without one.
+- Verify your phone number with the SMS code
+- Choose the **Basic support (free)** plan
+- Click **Complete sign up**
+- Wait for the "your account is activated" email. It's usually a few minutes but can take up to 24 hours. Check your spam folder.
+- Go to https://console.aws.amazon.com, choose **Root user**, and log in with your root user email and password
+
+> [!IMPORTANT]
+> **Pick the Paid plan, not the Free plan.** The Free plan only gives you access to some AWS services, and your account **closes by itself** after 6 months or when your credits run out, whichever comes first. You'd lose the whole machine. The Paid plan still gets the same $100 sign up credit (plus up to $100 more for doing AWS's starter activities). You only pay once those credits are used up.
+
+> [!TIP]
+> Turn on MFA (two factor login) for your root user since your credit card is attached. Click your account name in the top-right of the AWS Console > **Security credentials** > **Assign MFA device**.
 
 # Step 1. Request your GPU Quota Increase First
 Do this before anything else. Submitting it is free and takes about a minute, but AWS approval takes the longest of any step in this guide, so get it in the queue while you work on the rest.
