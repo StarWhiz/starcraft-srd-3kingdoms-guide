@@ -201,6 +201,7 @@ The EC2 has no sound card, so this gives it a fake speaker that Vibeshine can ca
 ### Install Vibeshine
 Vibeshine is an AI enhanced version of Sunshine, the Moonlight server. It handles the virtual display for you so you don't need extra tools like Monitor Profile Switcher, ViGEmBus, or VDD.Control.
 - Download the latest Windows installer from https://github.com/Nonary/vibeshine/releases
+- Note: Use Stable versions. Like [2.0.1](https://github.com/Nonary/vibeshine/releases#release-2.0.1) or [1.18.4](https://github.com/Nonary/vibeshine/releases?page=2#release-1.18.4-stable.4)
 - Run the installer with the default options. Windows Defender may give a false positive warning, which is a known issue on their GitHub.
 - When it's done, open `https://localhost:47990` in Edge on the EC2. Click past the certificate warning.
 - Create a username and password for the Vibeshine web page. Write it down, you need it to pair Moonlight in Step 7.
