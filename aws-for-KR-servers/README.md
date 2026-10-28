@@ -1,8 +1,8 @@
-This is for advanced tech savvy people or people who are comfortable using AI to help them set this all up.
+This is for advanced tech savvy people or people who are comfortable using AI to help them set this all up. Try at your own risk instructions might not be accurate use AI to help you.
 
 This is the way I've been playing on the KR servers without having to pay for [GeForce Now](https://github.com/StarWhiz/starcraft-srd-3kingdoms-guide/tree/main/geforcenow-for-KR-servers). GeForce Now is much easier to set up though.
 
-Anyways the point is this set up creates a KR computer in the Seoul Region. You will use a software combination called Moonlight and Sunshine (Vibeshine) to stream video from that machine to your machine. It will be like you're remote controlling the machine in KR.
+Anyways the point is this set up creates a KR computer in the Seoul Region. You will use a software combination called Moonlight and Sunshine to stream video from that machine to your machine. It will be like you're remote controlling the machine in KR.
 
 Since Starcraft is P2P the Koreans won't experience lag from your KR virtual machine even on Turn Rate 24.
 
@@ -108,7 +108,7 @@ When you're done it should look like this:
 > [!NOTE]
 > - Choosing **My IP** for RDP fills in your home IP with `/32` at the end. Only your home can Remote Desktop into the machine. If your home IP ever changes, come back here and edit that rule.
 > - Starcraft uses port 6112 by default. Blizzard recommends opening 6112 - 6119 so the game has fallback ports if 6112 is busy.
-> - Port 47990 is the Vibeshine web admin page. If you want to be extra safe, set its Source to **My IP** too. Once you're on Tailscale you don't need it open to the internet at all.
+> - Port 47990 is the Sunshine web admin page. If you want to be extra safe, set its Source to **My IP** too. Once you're on Tailscale you don't need it open to the internet at all.
 
 # Step 3. Create an IAM Role for the NVIDIA Driver Download
 The NVIDIA GRID drivers for AWS are downloaded from an AWS S3 bucket, and the EC2 needs permission to read from it. The easiest way is to give the EC2 an IAM role.
@@ -218,7 +218,7 @@ Copy-S3Object -BucketName $Bucket -Key $Object.Key -LocalFile $LocalFilePath -Re
 - Open **Device Manager** > **Display adapters**. You should see **NVIDIA Tesla T4**.
 
 ### Install VB-Audio Virtual Cable
-The EC2 has no sound card, so this gives it a fake speaker that Vibeshine can capture sound from.
+The EC2 has no sound card, so this gives it a fake speaker that Sunshine can capture sound from.
 - Download it from https://vb-audio.com/Cable/
 - Extract the zip, right click `VBCABLE_Setup_x64.exe` > **Run as administrator** > **Install Driver**
 - Reboot and reconnect with Remote Desktop
@@ -226,13 +226,40 @@ The EC2 has no sound card, so this gives it a fake speaker that Vibeshine can ca
 
 ![](VB-Audio.jpg)
 
-### Install Vibeshine
-Vibeshine is an AI enhanced version of Sunshine, the Moonlight server. It handles the virtual display for you so you don't need extra tools like Monitor Profile Switcher, ViGEmBus, or VDD.Control.
-- Download the latest Windows installer from https://github.com/Nonary/vibeshine/releases
-- Note: Use Stable versions. Like [2.0.1](https://github.com/Nonary/vibeshine/releases#release-2.0.1) or [1.18.4](https://github.com/Nonary/vibeshine/releases?page=2#release-1.18.4-stable.4)
-- Run the installer with the default options. Windows Defender may give a false positive warning, which is a known issue on their GitHub.
+### Install the Virtual Display Driver (VDD.Control)
+The EC2 has no monitor plugged into its GPU. The Virtual Display Driver gives it a fake monitor running on the NVIDIA GPU, so Sunshine has a screen to stream.
+- Download the latest **VDD.Control** / **Driver Installer (Windows 10/11)** zip from https://github.com/VirtualDrivers/Virtual-Display-Driver/releases
+- Extract the zip to a folder and run the VDD Control app inside it
+- Click **Install**
+    - If it says `vcruntime140.dll not found`, install the latest **Microsoft Visual C++ Redistributable (x64)** and try again
+- The default settings work. You don't need to pick a GPU because the **NVIDIA Tesla T4** is the only real GPU on the EC2, so leaving it on `default` uses it automatically.
+    - For reference, here's the [vdd_settings.xml](vdd_settings.xml) from my working machine: 1 monitor, GPU on `default`, and resolutions from 800x600 up to 4K with 60 to 244Hz refresh rates. The driver's settings file is at `C:\VirtualDisplayDriver\vdd_settings.xml`. If you replace it with mine, restart the driver from VDD Control.
+- Check **Device Manager** > **Display adapters**. You should see **Virtual Display Driver** next to the **NVIDIA Tesla T4**.
+
+> [!NOTE]
+> If you ever update the NVIDIA GRID driver, uninstall the VDD first and reinstall it afterward. The VDD project recommends this to avoid a black screen.
+
+### Install Monitor Profile Switcher
+This saves your display setup as a profile so Sunshine can switch the EC2 to the virtual display when you connect.
+- Download `MonitorProfileSwitcher` from https://sourceforge.net/projects/monitorswitcher/ and extract it to a folder that won't move, like `C:\MonitorProfileSwitcher`
+- That's it for now. You save the display profile later in [Step 7](#first-time-only-lock-in-the-virtual-display), because Remote Desktop shows its own fake display instead of the EC2's real ones.
+
+### Install ViGEmBus
+This lets Sunshine create a virtual game controller. Starcraft is keyboard and mouse so it's optional, but Sunshine will warn you about missing gamepad support without it.
+- Download the latest `ViGEmBus_x.x.x_x64_x86_arm64.exe` from https://github.com/nefarius/ViGEmBus/releases
+- Run it and click through with the default options
+
+### Install Sunshine
+Sunshine is the Moonlight server. It captures the EC2's screen with the NVIDIA GPU and streams it to Moonlight on your computer.
+- Download the latest Windows installer (`Sunshine-Windows-AMD64-installer`) from https://github.com/LizardByte/Sunshine/releases/latest
+- Run the installer with the default options
 - When it's done, open `https://localhost:47990` in Edge on the EC2. Click past the certificate warning.
-- Create a username and password for the Vibeshine web page. Write it down, you need it to pair Moonlight in Step 7.
+- Create a username and password for the Sunshine web page. Write it down, you need it to pair Moonlight in Step 7.
+- Go to **Configuration** > **Audio/Video**
+    - **Audio Sink**: `CABLE Input (VB-Audio Virtual Cable)`
+    - **Adapter Name**: `NVIDIA Tesla T4`
+    - **Output display**: pick the virtual display
+- Click **Save**, then **Apply** (or restart Sunshine)
 
 ### Install Battle.net + Starcraft
 - Download Battle.net from https://download.battle.net and install it
@@ -254,10 +281,24 @@ Now everything happens on your main computer at home.
 - Install Moonlight on your main computer: https://moonlight-stream.org
 - Open Moonlight. Click the **+** (Add Host) button and type in the EC2's Tailscale IP from Step 6
 - Moonlight shows you a 4 digit PIN
-- Go back to your Remote Desktop session on the EC2. In the Vibeshine web page (`https://localhost:47990`) go to the **PIN** page, type in the 4 digit PIN, and give the device a name
+- Go back to your Remote Desktop session on the EC2. In the Sunshine web page (`https://localhost:47990`) go to the **PIN** page, type in the 4 digit PIN, and give the device a name
 - The EC2 now shows up in Moonlight as paired
 - **Close your Remote Desktop session the right way before streaming.** See [Black screen or login screen in Moonlight](#black-screen-or-login-screen-in-moonlight) below. If you just close the Remote Desktop window, Windows locks the screen and Moonlight can't show it.
 - Click the EC2 in Moonlight > **Desktop**. Remote into your EC2 with that tailscale IP! Congrats!
+
+### First time only: lock in the virtual display
+Do this once inside Moonlight (not Remote Desktop) so the EC2 always streams from the virtual display.
+- Right click the desktop > **Display settings**
+    - Click the virtual display, set it to `1920x1080`, and check **Make this my main display**
+    - Under **Multiple displays** choose **Show only on** the virtual display
+- Save this layout as a profile. Open PowerShell in the `C:\MonitorProfileSwitcher` folder and run:
+```powershell
+.\MonitorSwitcher.exe -save:C:\MonitorProfileSwitcher\stream.xml
+```
+- Open the Sunshine web page (`https://localhost:47990`) > **Configuration** > **General** > **Command Preparations** > **Add**
+    - **Do command**: `C:\MonitorProfileSwitcher\MonitorSwitcher.exe -load:C:\MonitorProfileSwitcher\stream.xml`
+    - Check **Run as administrator**
+- Click **Save**, then **Apply**. Every time you connect, Sunshine now loads this display profile first.
 
 ### Recommended Moonlight settings
 Starcraft doesn't need much, and lower bitrate keeps the data transfer cost down.
@@ -306,7 +347,7 @@ Windows is still setting itself up. Wait 5 to 10 minutes after the instance star
 - The public IP changes on every start. Download a fresh `.rdp` file from the **Connect** page
 
 ### Black screen or login screen in Moonlight
-When you close a Remote Desktop window, Windows locks the session, and Vibeshine can't stream a locked screen. To fix it, disconnect Remote Desktop this way instead:
+When you close a Remote Desktop window, Windows locks the session, and Sunshine can't stream a locked screen. To fix it, disconnect Remote Desktop this way instead:
 - On the EC2 desktop, create a text file called `disconnect.bat` (make sure it doesn't end in `.txt`)
 - Put this in it:
 ```bat
